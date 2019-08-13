@@ -3050,6 +3050,29 @@ body {
     padding-bottom: 3rem;
   }
 }
+.cid-rz1cDCRL5B {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rz1cDCRL5B [class^="socicon-"]:before,
+.cid-rz1cDCRL5B [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-rz1cDCRL5B .btn-social {
+  border-color: #149dcc;
+}
+.cid-rz1cDCRL5B .btn-social:hover {
+  background: #149dcc;
+}
+.cid-rz1cDCRL5B .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-rz1cDCRL5B .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-rz03UX0M2Y {
   padding-top: 30px;
   padding-bottom: 30px;
