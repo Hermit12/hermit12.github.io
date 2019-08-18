@@ -60,15 +60,19 @@ body{font-family: Roboto;}blockquote{border-color: #4ea2e3;}.display-1{font-fami
     </amp-sidebar>
 
 <!-- Google Analytics -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-145814805-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-145814805-1');
+<script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="gtag" data-credentials="include">
+<script type="application/json">
+{
+  "vars" : {
+    "gtag_id": "145814805",
+    "config" : {
+      "145814805": { "groups": "default" }
+    }
+  }
+}
 </script>
+</amp-analytics>
 
 <!-- /Google Analytics -->
 

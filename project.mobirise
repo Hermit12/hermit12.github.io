@@ -48,7 +48,7 @@
     "noImageResize": "",
     "witsec-language": "",
     "сanonical-url": "https://brigitte-swoboda.at",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145814805-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145814805-1');\r\n</script>\r\n",
+    "google-analytics": "<script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"145814805\",\r\n    \"config\" : {\r\n      \"145814805\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>\r\n",
     "cleanCSS": true
   },
   "pages": {
