@@ -50,14 +50,14 @@
     "сanonical-url": "https://brigitte-swoboda.at",
     "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"145814805\",\r\n    \"config\" : {\r\n      \"145814805\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>\r\n",
     "cleanCSS": true,
-    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": "",
     "customCookies": {
       "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorBg": "#bbbbbb",
       "colorButton": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "99",
+      "opacity": "63",
       "text": "Ich verwende teilweise Coockies. Wenn Sie auf meinen Webseiten navigieren, stimmen Sie der Erfassung von Informationen durch Cookies auf meinen Webseiten zu. Bitte lesen Sie meine <a href='https://brigitte-swoboda.at/datenschutz'>Datenschutzerklärung</a>."
     }
   },
