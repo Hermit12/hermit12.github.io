@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "datenschutz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -48,7 +48,7 @@
     "noImageResize": "",
     "witsec-language": "",
     "сanonical-url": "https://brigitte-swoboda.at",
-    "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"UA-145814805-2\",\r\n    \"config\" : {\r\n      \"UA-145814805-2\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>\r\n",
+    "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"UA-145814805-2\",\r\n    \"config\" : {\r\n      \"UA-145814805-2\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>",
     "cleanCSS": false,
     "gdpr": "",
     "customCookies": {
@@ -58,7 +58,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='https://brigitte-swoboda.at/datenschutz'>cookie policy</a>."
+      "text": "Diese Website benutzt Cookies zur optimalen Darstellung. Mehr dazu im <a href='https://brigitte-swoboda.at/datenschutz'>Datenschutz</a>."
     }
   },
   "pages": {
