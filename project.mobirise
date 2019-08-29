@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "index.html",
+    "currentPage": "klavierunterricht-originals.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -73,7 +73,7 @@
         "title": "Klavierunterricht Wien - Leichter lernen dank bewährter Methode",
         "meta_descr": "Klavierunterricht ganz persönlich - Für Anfänger, Fortgeschrittene, Wiedereinsteiger. Lernen und üben an zwei Klavieren ist mein Schlüssel zum Erfolg!",
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">\n\n  <meta name=\"format-detection\" content=\"telephone=yes\">\n\n  <meta name=\"msvalidate.01\" content=\"32733F5AA7854C184164D3BAF21EDACF\" />\n\n\n\n<meta property=\"og:title\" content=\"Klavierspielen lernen leicht gemacht\" />\n\n  <meta property=\"og:site_name\" content=\"Moderner Klavierunterricht von Mag. Brigitte Swoboda\" />\n\n  <meta property=\"og:url\" content=\"https://brigitte-swoboda.at\" />\n\n  <meta property=\"og:description\" content=\"Klavierspielen lernen - jetzt leicht gemacht für jung und alt. Moderner Unterricht mit zwei Konzertflügeln, darunter ein Steinway! Gedächtnistraining und Gehörschulung inklusive. Gleich ausprobieren\" />\n\n  <meta property=\"og:type\" content=\"website\" />\n\n  <meta property=\"og:locale\" content=\"de_DE\" />\n\n<meta property=\"og:image\" content=\"https://brigitte-swoboda.at/assets/images/brigitte-swoboda.webp\" />  \n\n<meta property=\"og:image\" content=\"https://brigitte-swoboda.at/assets/images/atelier-13.webp\" />\n\n \n\n  \n\n  <meta name=\"twitter:card\" content=\"Klavierunterricht Wien\" />\n\n  <meta name=\"twitter:title\" content=\"Klavierspielen lernen leicht gemacht\" />\n\n  <meta name=\"twitter:description\" content=\"Klavierspielen lernen - jetzt leicht gemacht für jung und alt. Moderner Unterricht mit zwei Konzertflügeln, darunter ein Steinway! Gedächtnistraining und Gehörschulung inklusive. Gleich ausprobieren \" />\n\n  <meta name=\"twitter:url\" content=\"https://brigitte-swoboda.at\" />\n\n  <meta name=\"twitter:image\" content=\"https://brigitte-swoboda.at/assets/images/atelier-1.webp\" />",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
@@ -887,7 +887,7 @@
         "order": 4,
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">",
         "meta_descr": "Fotos, Klavierunterricht Brigitte Swoboda, Klavierunterricht in 1140 Wien, Galerie, Atelier, Konzertflügel",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -1607,7 +1607,7 @@
         "order": 7,
         "meta_descr": "Impressum meiner Website: Klavierunterricht Wien, Mag. Brigitte Swoboda",
         "header_custom": "",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -2232,7 +2232,7 @@
         "order": 6,
         "meta_descr": "Datenschutz ist mir ein Anliegen. Hier erfahren Sie Einzeilheiten, wie Ihre persönlichen Daten geschützt werden.",
         "header_custom": "",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -2974,7 +2974,7 @@
         "order": 5,
         "meta_descr": "Hier beantworte ich mir oft gestellte Fragen zu meiner Unterrichtsmethode, Klavierspiel, Unterrichtsablauf, Vorkenntnisse und Erreichbarkeit",
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Fragen\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lessons, FAQ\">\n  <meta name=\"msvalidate.01\" content=\"32733F5AA7854C184164D3BAF21EDACF\" />",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -3599,7 +3599,7 @@
         "title": "Klavierunterricht Brigitte Swoboda - Originalbilder",
         "order": 8,
         "meta_descr": "Bilder meiner Website: Brigitte Swoboda, Klavierunterricht Wien in original Auflösung",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -4453,7 +4453,7 @@
         "order": 3,
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierausbildung\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano knowledge\">\n  <meta name=\"format-detection\" content=\"telephone=yes\">\n  <meta name=\"msvalidate.01\" content=\"32733F5AA7854C184164D3BAF21EDACF\" />",
         "meta_descr": "Hier erfahren Sie einige Eckpunkte meines beruflichen Werdeganges als Klavierpädagogin.",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
@@ -5105,7 +5105,7 @@
         "title": "Klavierunterricht von Mag. Brigitte Swoboda - Termine und Preise",
         "order": 2,
         "meta_descr": "Termine jederzeit vereinbar - nehmen Sie Kontakt auf! Der Preis richtet sich nach Länge der Unterrichtseinheit",
-        "footer_custom": "<!-- Configure analytics to use gtag -->\n  \n  <amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"145814805\",\n    \"config\" : {\n      \"145814805\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
+        "footer_custom": ""
       },
       "components": [
         {
