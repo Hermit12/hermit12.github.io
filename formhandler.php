@@ -1,52 +1,33 @@
 <?php
-if(isset($_POST['email'])) {
+     if ( ! isset( $_POST['contact_form'] ) ) {
+          header( 'access-control-allow-credentials:true' );
+          header( 'access-control-allow-headers:Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token' );
+          header( 'access-control-allow-methods:POST, GET, OPTIONS' );
+          header( 'access-control-allow-origin:' . $_SERVER['HTTP_ORIGIN'] );
+          header( 'access-control-expose-headers:AMP-Access-Control-Allow-Source-Origin' );
+          header( 'amp-access-control-allow-source-origin:https://' . $_SERVER['HTTP_HOST'] );
+          header( 'Content-Type: application/json' );
+          $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
+          $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
+          $your_telephone = filter_var( $_POST['your_telephone'], FILTER_SANITIZE_STRING );
+          $your_subject = filter_var( $_POST['your_subject'], FILTER_SANITIZE_STRING );
+          $your_message = filter_var( $_POST['your_message'], FILTER_SANITIZE_STRING );
+          if ( ! empty( $your_name ) && ! empty( $your_email ) ) {
+               // Output message
+               $output_message = 'Thanks, '. $your_name . '. Your message was sent successfully.';
 
-    $email_to = "brigitte-swoboda@gmx.at";
-    $email_subject = "Website Kontaktformular-Anfrage";     
-     
-    $email = $_POST['email'];
-    $name = $_POST['name'];
-    $phone = $_POST['phone'];
-    $message = $_POST['message']; 
-          
-    $email_message = "Message:\n\n";
-     
-    function clean_string($string) { 
-      $bad = array("content-type","bcc:","to:","cc:","href"); 
-      return str_replace($bad,"",$string);
-    }
-
-	function getUserIpAddr()
-	{
-    	if (!empty($_SERVER['HTTP_CLIENT_IP']))
-	    {
-        	return $_SERVER['HTTP_CLIENT_IP'];
-    	}
-    	else if (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
-    	{
-        	return $_SERVER['HTTP_X_FORWARDED_FOR'];
-    	}
-    	else
-    	{
-        	return $_SERVER['REMOTE_ADDR'];
-    	}
-	}    
-
-    $email_message .= "IP address: ".getUserIpAddr()."\n";
-    
-    $email_message .= "Name: ".clean_string($name)."\n";
-    $email_message .= "Email: ".clean_string($email)."\n";
-    $email_message .= "Phone: ".clean_string($phone)."\n";
-    $email_message .= "Message: ".clean_string($message)."\n";
- 
-	$headers = "MIME-Version: 1.0" . "\r\n";
-	$headers .= "Content-type:text/plain;charset=UTF-8" . "\r\n";
-	$headers .= 'From: '.$email. "\r\n";
-
-	if (@mail($email_to, $email_subject, $email_message, $headers)) {
-		header('Location: success.html');
-	} else {
-		header('Location: error.html');
-	}
-} 
+               // Email to the website admin
+               $compiled_message = 'Name: ' . $your_name . "\r\n";
+               $compiled_message .= 'Email: ' . $your_email . "\r\n";
+               $compiled_message .= 'Telephone: ' . $your_telephone . "\r\n";
+               $compiled_message .= 'Subject: ' . $your_subject . "\r\n";
+               $compiled_message .= 'Message: ' . $your_message;
+               mail( 'brigitte-swoboda@gmx.at', 'Kontaktformular', $compiled_message );
+          } else {
+               // Front-end error message
+               $output_message = 'Sorry, there was an error processing your message.';
+          }
+          $output = ['output_message' => $output_message];
+          echo json_encode( $output );
+     }
 ?>
