@@ -6,8 +6,8 @@
 // An diese E-Mail-Adresse wird die Nachricht gesendet. Bitte einen Namen und eMail eintragen:
 $empfaengerName = "Brigitte Swoboda"; // Name des Empfängers
 $empfaengerEmail = "brigitte-swoboda@gmx.at"; // E-Mail des Empfängers
-$dankeSeite = "danke.html"; // Danke - Seite, die Mail wurde erfolgreich versandt. Eventuell anpassen.
-$fehlerSeite = "fehler.html"; // Fehler - Seite, falls die Mail nicht versandt werden konnte. Eventuell anpassen.
+$dankeSeite = "success.html"; // Danke - Seite, die Mail wurde erfolgreich versandt. Eventuell anpassen.
+$fehlerSeite = "error.html"; // Fehler - Seite, falls die Mail nicht versandt werden konnte. Eventuell anpassen.
 
 // Betreff
 // Jede E-Mail benötigt einen Betreff, da jedoch im Formular kein
