@@ -253,23 +253,11 @@ body{font-family: Roboto;}blockquote{border-color: #4ea2e3;}.display-1{font-fami
     </div>
 
 
-<form id="contact-form" name="contact_form" method="post" action-xhr="<?php echo get_template_directory_uri(); ?>/form-handler.php" target="_top" on="submit:contact-form.clear">
-     <input type="text" name="your_name" required />
-     <input type="email" name="your_email" required />
-     <input type="text" name="your_telephone" />
-     <input type="text" name="your_subject" />
-     <textarea name="your_message"></textarea>
-     <input type="submit" name="submit" value="Send message" />
-     <div submit-success>
-          <template type="amp-mustache">
-               <p>{{output_message}}</p>
-          </template>
-     </div>
-     <div submit-error>
-          <template type="amp-mustache">
-               <p>There was an error</p>
-          </template>
-     </div>
+
+
+<form action="%%=CloudPagesURL(1977)=%%" method="post" class="form centered">
+	<input name="Name" type="text" placeholder="Your name" required>
+	<button>Send</button>
 </form>
 
 
