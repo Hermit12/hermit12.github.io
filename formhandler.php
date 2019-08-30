@@ -10,7 +10,7 @@
           $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
           $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
           $your_telephone = filter_var( $_POST['your_telephone'], FILTER_SANITIZE_STRING );
-          
+          $your_subject = filter_var( $_POST['your_subject'], FILTER_SANITIZE_STRING );
           $your_message = filter_var( $_POST['your_message'], FILTER_SANITIZE_STRING );
           if ( ! empty( $your_name ) && ! empty( $your_email ) ) {
                // Output message
@@ -20,9 +20,9 @@
                $compiled_message = 'Name: ' . $your_name . "\r\n";
                $compiled_message .= 'Email: ' . $your_email . "\r\n";
                $compiled_message .= 'Telephone: ' . $your_telephone . "\r\n";
-          
+               $compiled_message .= 'Subject: ' . $your_subject . "\r\n";
                $compiled_message .= 'Message: ' . $your_message;
-               mail( 'brigitte-swoboda@gmx.at', 'Kontaktformular', $compiled_message );
+               mail( 'example@example.com', 'Example Subject', $compiled_message );
           } else {
                // Front-end error message
                $output_message = 'Sorry, there was an error processing your message.';
