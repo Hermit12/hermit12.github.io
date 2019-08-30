@@ -22,7 +22,7 @@
                $compiled_message .= 'Telephone: ' . $your_telephone . "\r\n";
                $compiled_message .= 'Subject: ' . $your_subject . "\r\n";
                $compiled_message .= 'Message: ' . $your_message;
-               mail( 'example@example.com', 'Example Subject', $compiled_message );
+               mail( 'brigitte-swoboda@gmx.at', 'Example Subject', $compiled_message );
           } else {
                // Front-end error message
                $output_message = 'Sorry, there was an error processing your message.';
