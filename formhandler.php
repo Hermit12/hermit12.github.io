@@ -10,7 +10,7 @@
           $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
           $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
           $your_telephone = filter_var( $_POST['your_telephone'], FILTER_SANITIZE_STRING );
-          $your_subject = filter_var( $_POST['your_subject'], FILTER_SANITIZE_STRING );
+          
           $your_message = filter_var( $_POST['your_message'], FILTER_SANITIZE_STRING );
           if ( ! empty( $your_name ) && ! empty( $your_email ) ) {
                // Output message
