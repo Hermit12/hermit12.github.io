@@ -49,7 +49,7 @@
     "witsec-language": "de",
     "сanonical-url": "https://brigitte-swoboda.at",
     "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"UA-145814805-2\",\r\n    \"config\" : {\r\n      \"UA-145814805-2\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>\r\n\r\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"UA-145814805-1\",\r\n    \"config\" : {\r\n      \"UA-145814805-1\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>",
-    "cleanCSS": true,
+    "cleanCSS": false,
     "gdpr": {
       "colorText": "#15181b",
       "colorLink": "#149dcc",
