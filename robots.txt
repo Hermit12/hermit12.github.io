@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /assets/images
-Disallow: /error
-Disallow: /success
+
+
 
 
