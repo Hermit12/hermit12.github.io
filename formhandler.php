@@ -20,7 +20,7 @@
                $compiled_message = 'Name: ' . $your_name . "\r\n";
                $compiled_message .= 'Email: ' . $your_email . "\r\n";
                $compiled_message .= 'Telephone: ' . $your_telephone . "\r\n";
-               $compiled_message .= 'Subject: ' . $your_subject . "\r\n";
+          
                $compiled_message .= 'Message: ' . $your_message;
                mail( 'brigitte-swoboda@gmx.at', 'Kontaktformular', $compiled_message );
           } else {
