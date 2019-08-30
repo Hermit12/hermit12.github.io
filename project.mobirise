@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "fragen-zum-klavierunterricht.html",
+    "currentPage": "klavierunterricht-wien-kontakt.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -6259,7 +6259,7 @@
               "padding-top": "1.5rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#15181b"
             }
           },
           "_name": "content1",
