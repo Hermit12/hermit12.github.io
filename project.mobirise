@@ -41,9 +41,9 @@
       }
     ],
     "uniqCompNum": 151,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
-    "witsec-white-label": "",
+    "witsec-white-label": "on",
     "favicon": "",
     "noImageResize": "",
     "witsec-language": "de",
