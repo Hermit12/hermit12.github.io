@@ -12,7 +12,7 @@
         "infoColor": "#8282e7",
         "warningColor": "#767676",
         "dangerColor": "#a0a0a0",
-        "mainFont": "Roboto",
+        "mainFont": "Quicksand",
         "display1Font": "Quicksand",
         "display1Size": "3.5",
         "display2Font": "Quicksand",
@@ -35,7 +35,7 @@
     "versionFirst": "4.10.7",
     "siteFonts": [
       {
-        "css": "'Quicksand', sans-serif",
+        "css": "'Quicksand', quicksand",
         "name": "Quicksand",
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
