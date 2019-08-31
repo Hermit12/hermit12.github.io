@@ -44,7 +44,7 @@
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/piano-icon-128x128.png",
     "noImageResize": "",
     "witsec-language": "de",
     "сanonical-url": "https://brigitte-swoboda.at",
