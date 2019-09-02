@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "klavierunterricht-wien-kontakt.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -44,7 +44,7 @@
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/piano-icon-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "witsec-language": "de",
     "сanonical-url": "https://brigitte-swoboda.at",
