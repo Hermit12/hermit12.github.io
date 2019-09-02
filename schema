@@ -7,7 +7,7 @@ https://technicalseo.com/tools/schema-markup-generator/
 {
   "@context": "https://schema.org/",
   "@type": "Person",
-  "name": "Brigitte Swoboda - Klavierlehrerin für Anfänger und Fortgeschrittene",
+  "name": "Brigitte Swoboda - Klavierlehrerin fÃ¼r AnfÃ¤nger und Fortgeschrittene",
   "url": "https://brigitte-swoboda.at/ueber-mich",
   "image": "https://brigitte-swoboda.at/assets/images/brigitte-swoboda-616x821.jpg",
   "sameAs": "https://brigitte-swoboda.at",
@@ -20,17 +20,17 @@ https://technicalseo.com/tools/schema-markup-generator/
 </script>
 
 
-<!-- Geschäft Markup -->
+<!-- GeschÃ¤ft Markup -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Klavierunterricht Wien - Anfänger, Fortgeschrittene",
+  "name": "Klavierunterricht Wien - AnfÃ¤nger, Fortgeschrittene",
   "image": "https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg",
   "@id": "",
   "url": "https://brigitte-swoboda.at",
   "telephone": "+43 681 1086 77 85",
-"priceRange": "40€-50€",
+"priceRange": "40â‚¬-50â‚¬",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Felbigergasse 75/4",
@@ -70,7 +70,7 @@ https://technicalseo.com/tools/schema-markup-generator/
     "@id": "https://brigitte-swoboda.at"
   },
   "headline": "Klavierunterricht in Wien - Brigitte Swoboda",
-  "description": "Persönlicher Klavierunterricht in entspannter Atmosphäre. Für Einsteiger und Geübte jeder Altersklasse, um Neues zu erlernen oder Erlerntes zu verbessern. Geboten wird Auswendig lernen, Notenlesen, Korrepetition, Musiktheorie, Erarbeitung und Analyse ausgewählter Stücke und vieles mehr.",
+  "description": "PersÃ¶nlicher Klavierunterricht in entspannter AtmosphÃ¤re. FÃ¼r Einsteiger und GeÃ¼bte jeder Altersklasse, um Neues zu erlernen oder Erlerntes zu verbessern. Geboten wird Auswendig lernen, Notenlesen, Korrepetition, Musiktheorie, Erarbeitung und Analyse ausgewÃ¤hlter StÃ¼cke und vieles mehr.",
   "image": {
     "@type": "ImageObject",
     "url": "https://brigitte-swoboda.at/image-originals/brigitte-swoboda.jpg",
