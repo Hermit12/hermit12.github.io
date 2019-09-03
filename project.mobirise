@@ -28,7 +28,9 @@
         "arrowColor": "#bbbbbb"
       },
       "additionalSetColors": [
-        "#15181b"
+        "#15181b",
+        "#eaeff1",
+        "#424a4d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -63,7 +65,7 @@
     "sitemapSwitcher": "on",
     "cookiesAlert": {
       "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorBg": "#eaeaea",
       "colorButton": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
