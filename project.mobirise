@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "klavierunterricht-originals.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -77,7 +77,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Klavierunterricht Wien - Leicht erlernen dank bewährter Methode",
+        "title": "Klavierunterricht Wien | Leicht erlernen dank bewährter Methode",
         "meta_descr": "Klavierunterricht ganz persönlich - Für Anfänger, Fortgeschrittene, Wiedereinsteiger. Lernen und üben an zwei Klavieren ist mein Schlüssel zum Erfolg!",
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">\n\n  <meta name=\"format-detection\" content=\"telephone=yes\">\n\n  <meta name=\"msvalidate.01\" content=\"32733F5AA7854C184164D3BAF21EDACF\" />\n\n\n\n<meta property=\"og:title\" content=\"Klavierspielen lernen leicht gemacht\" />\n\n  <meta property=\"og:site_name\" content=\"Moderner Klavierunterricht von Mag. Brigitte Swoboda\" />\n\n  <meta property=\"og:url\" content=\"https://brigitte-swoboda.at\" />\n\n  <meta property=\"og:description\" content=\"Klavierspielen lernen - jetzt leicht gemacht für jung und alt. Moderner Unterricht mit zwei Konzertflügeln, darunter ein Steinway! Gedächtnistraining und Gehörschulung inklusive. Gleich ausprobieren\" />\n\n  <meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:site_name\" content=\"Klavierunterricht Wien\" />\n\n\n  <meta property=\"og:locale\" content=\"de_DE\" />\n\n<meta property=\"og:image\" content=\"https://brigitte-swoboda.at/assets/images/brigitte-swoboda.webp\" />  \n\n<meta property=\"og:image\" content=\"https://brigitte-swoboda.at/assets/images/atelier-13.webp\" />\n\n \n\n  \n\n  <meta name=\"twitter:card\" content=\"Klavierunterricht Wien\" />\n\n  <meta name=\"twitter:title\" content=\"Klavierspielen lernen leicht gemacht\" />\n\n  <meta name=\"twitter:description\" content=\"Klavierspielen lernen - jetzt leicht gemacht für jung und alt. Moderner Unterricht mit zwei Konzertflügeln, darunter ein Steinway! Gedächtnistraining und Gehörschulung inklusive. Gleich ausprobieren \" />\n\n  <meta name=\"twitter:url\" content=\"https://brigitte-swoboda.at\" />\n\n  <meta name=\"twitter:image\" content=\"https://brigitte-swoboda.at/assets/images/atelier-1.webp\" />\n\n<!-- Website Startseite Markup -->\n<script type='application/ld+json' >\n{\n\"@context\":\"https://schema.org\",\n\"@graph\":[{\n\"@type\":\"WebSite\",\n\"@id\":\"https://brigitte-swoboda.at\",\n\"url\":\"https://brigitte-swoboda.at\",\n\"name\":\"Klavierunterricht Wien - Brigitte Swoboda\",\n\"potentialAction\":{\n\"@type\":\"SearchAction\",\n\"target\":\"https://www.brigitte-swoboda.at/?s={search_term_string}\",\n\"query-input\":\"required name=search_term_string\"}},{\n\"@type\":\"ImageObject\",\n\"@id\":\"https://brigitte-swoboda.at\",\n\"url\":\"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\"width\":1094,\"height\":821,\n\"caption\":\"Klavier lernen in Wien\"},{\n\"@type\":\"WebPage\",\n\"@id\":\"https://brigitte-swoboda.at\",\n\"url\":\"https://brigitte-swoboda.at\",\n\"inLanguage\":\"de-DE\",\n\"name\":\"Klavierunterricht Wien - Brigitte Swoboda\",\n\"isPartOf\":{\n\"@id\":\"https://brigitte-swoboda.at\"},\n\"primaryImageOfPage\":{\n\"@id\":\"https://brigitte-swoboda.at\"},\n\"datePublished\":\"2019-09-01T17:38:39+00:00\",\n\"dateModified\":\"2019-09-02T05:38:10+00:00\",\n\"description\":\"Klavierunterricht ganz persönlich - Für Anfänger, Fortgeschrittene, Wiedereinsteiger. Lernen und üben an zwei Klavieren ist mein Schlüssel zum Erfolg!\"}]}</script>\n\n\n<!-- Geschäft Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Klavierunterricht Wien - Für Anfänger und Fortgeschrittene\",\n  \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n  \"@id\": \"\",\n  \"url\": \"https://brigitte-swoboda.at\",\n  \"telephone\": \"+43 681 1086 77 85\",\n\"priceRange\": \"40€-50€\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Felbigergasse 75/4\",\n    \"addressLocality\": \"Wien\",\n    \"postalCode\": \"1140\",\n    \"addressCountry\": \"AT\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 48.1959257,\n    \"longitude\": 16.28693640000006\n  } ,\n  \"sameAs\": \"https://brigitte-swoboda.at\"\n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
         "footer_custom": "",
@@ -890,7 +890,7 @@
     },
     "atelier.html": {
       "settings": {
-        "title": "Das Atelier - Hier findet der Klavierunterricht auf 2 Konzertflügeln statt",
+        "title": "Das Atelier | Hier findet der Klavierunterricht auf 2 Konzertflügeln statt",
         "order": 4,
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
         "meta_descr": "Fotos, Klavierlehrerin Brigitte Swoboda, Klavierunterricht in 1140 Wien, Galerie, Atelier, Konzertflügel",
@@ -1610,7 +1610,7 @@
     },
     "impressum.html": {
       "settings": {
-        "title": "Klavierunterricht Brigitte Swoboda - Impressum",
+        "title": "Klavierunterricht Brigitte Swoboda | Impressum",
         "order": 7,
         "meta_descr": "Impressum meiner Website: Klavierunterricht Wien, Mag. Brigitte Swoboda",
         "header_custom": "",
@@ -2235,7 +2235,7 @@
     },
     "datenschutz.html": {
       "settings": {
-        "title": "Klavierunterricht Brigitte Swoboda - Datenschutz",
+        "title": "Klavierunterricht Brigitte Swoboda | Datenschutz",
         "order": 6,
         "meta_descr": "Datenschutz ist mir ein Anliegen. Hier erfahren Sie Einzeilheiten, wie Ihre persönlichen Daten geschützt werden.",
         "header_custom": "",
@@ -3603,7 +3603,7 @@
     },
     "klavierunterricht-originals.html": {
       "settings": {
-        "title": "Klavierunterricht Brigitte Swoboda - Originalbilder",
+        "title": "Klavierunterricht Brigitte Swoboda | Originalbilder",
         "order": 8,
         "meta_descr": "Bilder meiner Website: Brigitte Swoboda, Klavierunterricht Wien in original Auflösung",
         "footer_custom": "",
@@ -4457,7 +4457,7 @@
     },
     "ueber-mich.html": {
       "settings": {
-        "title": "Brigitte Swoboda - Über mich",
+        "title": "Brigitte Swoboda | Über mich",
         "order": 3,
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierausbildung\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano knowledge\">\n  <meta name=\"format-detection\" content=\"telephone=yes\">\n  <meta name=\"msvalidate.01\" content=\"32733F5AA7854C184164D3BAF21EDACF\" />\n\n\n<!-- Person Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Brigitte Swoboda - Klavierlehrerin für Anfänger und Fortgeschrittene\",\n  \"url\": \"https://brigitte-swoboda.at/ueber-mich\",\n  \"image\": \"https://brigitte-swoboda.at/assets/images/brigitte-swoboda-616x821.jpg\",\n  \"sameAs\": \"https://brigitte-swoboda.at\",\n  \"jobTitle\": \"Klavierunterricht Wien\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Privat\"\n  }  \n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
         "meta_descr": "Hier erfahren Sie einige Eckpunkte meiner Ausbildung und meines  beruflichen Werdeganges als Klavierpädagogin.",
@@ -5110,7 +5110,7 @@
     },
     "klavierunterricht-wien-preise.html": {
       "settings": {
-        "title": "Klavierunterricht von Mag. Brigitte Swoboda - Termine und Preise",
+        "title": "Klavierunterricht von Mag. Brigitte Swoboda | Termine | Preise",
         "order": 2,
         "meta_descr": "Termine jederzeit vereinbar - nehmen Sie Kontakt auf! Der Preis richtet sich nach Länge der Unterrichtseinheit",
         "footer_custom": "",
@@ -5757,7 +5757,7 @@
     },
     "klavierunterricht-wien-kontakt.html": {
       "settings": {
-        "title": "Brigitte Swoboda - Klavierunterricht Wien Kontakt",
+        "title": "Brigitte Swoboda | Klavierunterricht Wien | Kontakt",
         "order": 1,
         "meta_descr": "Brigitte Swoboda, Klavierlehrer Wien, Klavierunterricht, Anfahr, Kontakt telefonisch, E-Mail, Whatsapp",
         "header_custom": "<!-- Geschäft Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Klavierunterricht Wien - Für Anfänger und Fortgeschrittene\",\n  \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n  \"@id\": \"\",\n  \"url\": \"https://brigitte-swoboda.at\",\n  \"telephone\": \"+43 681 1086 77 85\",\n\"priceRange\": \"40€-50€\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Felbigergasse 75/4\",\n    \"addressLocality\": \"Wien\",\n    \"postalCode\": \"1140\",\n    \"addressCountry\": \"AT\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 48.1959257,\n    \"longitude\": 16.28693640000006\n  } ,\n  \"sameAs\": \"https://brigitte-swoboda.at\"\n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>"
@@ -6510,7 +6510,7 @@
     },
     "blog.html": {
       "settings": {
-        "title": "Blog",
+        "title": "Brigitte Swoboda - Klavierunterricht | Blog",
         "order": 11
       },
       "components": [
