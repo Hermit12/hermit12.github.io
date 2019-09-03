@@ -892,7 +892,7 @@
       "settings": {
         "title": "Das Atelier - Hier findet der Klavierunterricht auf 2 Konzertflügeln statt",
         "order": 4,
-        "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"CreativeWork\",\n      \"aggregateRating\": {\n        \"@type\": \"AggregateRating\",\n        \"bestRating\": \"5\",\n        \"ratingCount\": \"36\",\n        \"ratingValue\": „4.9“\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
+        "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"CreativeWork\",\n      \"aggregateRating\": {\n        \"@type\": \"AggregateRating\",\n        \"bestRating\": \"5\",\n        \"ratingCount\": \"36\",\n        \"ratingValue\": „4.8“\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
         "meta_descr": "Fotos, Klavierunterricht Brigitte Swoboda, Klavierunterricht in 1140 Wien, Galerie, Atelier, Konzertflügel",
         "footer_custom": ""
       },
