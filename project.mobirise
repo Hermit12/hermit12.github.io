@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "index.html",
+    "currentPage": "klavierunterricht-wien-kontakt.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -59,7 +59,7 @@
     "robotsText": "User-Agent: * \nAllow: / \n\n\n\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://brigitte-swoboda.at",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "sitemapSwitcher": "on",
     "cookiesAlert": {
       "colorText": "#424a4d",
