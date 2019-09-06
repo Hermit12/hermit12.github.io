@@ -48,7 +48,7 @@
     "noImageResize": "",
     "witsec-language": "de",
     "сanonical-url": "https://brigitte-swoboda.at",
-    "google-analytics": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>",
+    "google-analytics": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n",
     "cleanCSS": false,
     "gdpr": {
       "colorText": "#15181b",
