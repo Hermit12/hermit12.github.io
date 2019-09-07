@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "index.html",
+    "currentPage": "klavierunterricht-wien-preise.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -5117,7 +5117,7 @@
     },
     "klavierunterricht-wien-preise.html": {
       "settings": {
-        "title": "Klavierunterricht von Mag. Brigitte Swoboda | Termine | Preise",
+        "title": "Klavierunterricht | Mag. Brigitte Swoboda | Termine | Preise",
         "order": 2,
         "meta_descr": "Termine jederzeit vereinbar - nehmen Sie Kontakt auf! Der Preis richtet sich nach Länge der Unterrichtseinheit",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
