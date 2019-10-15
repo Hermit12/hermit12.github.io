@@ -29,4 +29,9 @@
 	<url>
 		<loc>https://brigitte-swoboda.at/blog</loc>
 	</url>
+        <url>
+		<loc>https://brigitte-swoboda.at/blog/sitemap.xml</loc>
+	</url>
 </urlset>
+
+
