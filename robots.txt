@@ -1,6 +1,6 @@
 User-Agent: * 
 Allow: / 
-Disallow: /Paperclips/
+Disallow: /paperclips/
 
 
 
