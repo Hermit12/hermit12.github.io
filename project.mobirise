@@ -52,9 +52,9 @@
     "cleanCSS": false,
     "robotsText": "User-Agent: * \nAllow: / \n\n\n\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://brigitte-swoboda.at",
+    "siteUrl": "https://brigitte-swoboda.at/",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
+    "sitemapSwitcher": true,
     "cookiesAlert": {
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
