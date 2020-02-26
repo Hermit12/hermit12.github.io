@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "blog.html",
+    "currentPage": "klavierunterricht-wien-kontakt.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -40,8 +40,8 @@
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 181,
-    "versionPublish": "4.10.7",
+    "uniqCompNum": 165,
+    "versionPublish": "4.12.2",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
     "favicon": "@PROJECT_PATH@/assets/images/piano-icon-128x128-3.png",
@@ -64,18 +64,19 @@
     "cookiesAlert": {
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
       "text": "Diese Website benutzt Cookies zur optimalen Darstellung. Mehr dazu im <a href='https://brigitte-swoboda.at/datenschutz'>Datenschutz</a>."
-    }
+    },
+    "canonical-url": "http://brigitte-swoboda.at",
+    "imageResize": true
   },
   "pages": {
     "atelier.html": {
       "settings": {
         "title": "Das Atelier | Hier findet der Klavierunterricht auf 2 Konzertflügeln statt",
-        "order": 4,
+        "order": 5,
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierunterricht Wien\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano lesson vienna\">\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Atelier - Klavierunterricht Wien Brigitte Swoboda\"\n    }</script>\n\n<!-- Geschäft Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Klavierunterricht Wien - Für Anfänger und Fortgeschrittene\",\n  \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n  \"@id\": \"\",\n  \"url\": \"https://brigitte-swoboda.at\",\n  \"telephone\": \"+43 681 1086 77 85\",\n\"priceRange\": \"40€-50€\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Felbigergasse 75/4\",\n    \"addressLocality\": \"Wien\",\n    \"postalCode\": \"1140\",\n    \"addressCountry\": \"AT\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 48.1959257,\n    \"longitude\": 16.28693640000006\n  } ,\n  \"sameAs\": \"https://brigitte-swoboda.at\"\n}\n</script>",
         "meta_descr": "Fotos, Klavierlehrerin Brigitte Swoboda, Klavierunterricht in 1140 Wien, Galerie, Atelier, Konzertflügel",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
@@ -780,11 +781,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -795,7 +796,7 @@
     "impressum.html": {
       "settings": {
         "title": "Klavierunterricht Brigitte Swoboda | Impressum",
-        "order": 7,
+        "order": 8,
         "meta_descr": "Impressum meiner Website: Klavierunterricht Wien, Mag. Brigitte Swoboda",
         "header_custom": "",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
@@ -1405,11 +1406,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -1420,7 +1421,7 @@
     "datenschutz.html": {
       "settings": {
         "title": "Klavierunterricht Brigitte Swoboda | Datenschutz",
-        "order": 6,
+        "order": 7,
         "meta_descr": "Datenschutz ist mir ein Anliegen. Hier erfahren Sie Einzeilheiten, wie Ihre persönlichen Daten geschützt werden.",
         "header_custom": "",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
@@ -2147,11 +2148,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -2162,7 +2163,7 @@
     "fragen-zum-klavierunterricht.html": {
       "settings": {
         "title": "Frage und Antwort  | Rund um meinen Klavierunterricht",
-        "order": 5,
+        "order": 6,
         "meta_descr": "Hier beantworte ich mir oft gestellte Fragen zu meiner Unterrichtsmethode, Klavierspiel, Unterrichtsablauf, Vorkenntnisse und Erreichbarkeit",
         "header_custom": "<!-- FAQ -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"Wie läuft eine Unterrichtseinheit ab?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Ich lege Wert auf eine angenehme und zwanglose Unterrichtsatmosphäre. In meinem Atelier sind zwei Klaviere vorhanden, eines für den Schüler und eines für mich. Gespielt wird immer zusammen, um das Neugelernte zu festigen und gleichzeitig das Gehör zu schulen. Zu Beginn wird das Erlernte der letzten Unterrichtseinheit wiederholt und Fragen, die beim Üben aufgetreten sind, gekärt. Danach wird je nach Wunsch Erlerntes geübt oder neue Werke begonnen.\nZum Abschluss gibt es noch eine Übungseinheit für Technik und Fingerfertigkeit, damit es dem Studenten möglich ist seine Technik kontinuierlich zu verbessern.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Bieten Sie auch Nachhilfe für StudentInnen des Konzertfachs an?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"In meinem Repertoire finden sich Trainigsmethoden für Ausdruck und Fingerfertigkeit ebenso wie Tonsetzung und Analyse des Werkes. Ich freue mich, Sie bei etwaiger Prüfungsvorbereitung und Programmerstellung unterstützen zu können. Ich biete auch Korrepetition an. \nGroßen Wert lege ich auf Analyse, mentales Erfassen und stückweises Erlernen barocker Literatur, insbesondere Bach. Vor Bach muss man sich nicht fürchten, Bach muss man nur verstehen.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Mein Kind möchte Klavierspielen lernen, wann ist der richtige Zeitpunkt zu beginnen?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Das ideale Einstiegsalter ist mit 4 Jahren.Das ideale Einstiegsalter ist mit 4 Jahren.\nWir beginnen mit den ersten drei Noten -Do Re Mi-. Danach werden spielerisch 5-Fingerübungen und einfache Lieder erlernt, später Lieder mit höherem Schwierigkeitsgrad. Am Ende des Semesters können die Kinder kleinere Stücke alleine vortragen, was einerseits Selbstbewusstsein, Konzentration und Disziplin fördert und andererseits Freude bereitet.\nEltern sind während der Unterrichtseinheit willkommene Gäste.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Gibt es ein Alterslimit, um mit dem Klavierspiel zu beginnen?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Meiner Erfahrung nach kann in jedem Alter mit dem Klavierspiel begonnen werden.\nWichtig ist die Freude und Begeisterung, um ein Instrument zu erlernen und zu spielen. Dies fördere ich aktiv in meinem Unterricht, denn für die meisten meiner Schüler ist das Klavierspiel ein Hobby und Ausgleich vom stressigen Alltag und hier darf die Freude am Spiel nicht zu kurz kommen.\nDas auswendig lernen in meinem Unterricht ist ein hervorragendes Gedächtnistraining und verbessert außerdem Ihre Konzentrationsfähigkeit und Gehörbildung.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Muss ich Noten lesen können, um Klavier zu spielen?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Noten lesen ist für meinen Unterricht nicht vorrangig erforderlich. Mein Hauptaugenmerk richte ich auf auswendig lernen der Stücke, um sie vollumfänglich begreifen zu können. Erst dadurch wird das Stück ein Teil von Ihnen und das Spiel natürlich und unverfälscht. Selbstverständlich können Sie bei mir auch Noten lesen lernen, sowie die richtige Technik für fließendes Blattspiel.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Muss ich den Unterricht regelmäßig besuchen?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Wie oft Sie den Unterricht besuchen, bleibt selbstverständlich Ihnen überlassen. Für kontinuierlichen Fortschritt ist ein wöchentlicher Besuch zu empfehlen, für intensive Vorbereitung zu Vorspielen oder Prüfungen ist mehrmals die Woche empfehlenswert. Nicht immer hat man Zeit zum Üben, dennoch zahlt sich eine Klavierstunde aus, um gemeinsam Neues zu erarbeiten und Erlerntes zu wiederholen. Daher liegt mir Kontinuität sehr am Herzen.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Bieten Sie den Klavierunterricht nur in Ihrem Atelier an?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Grundsätzlich findet der Unterricht bei mir im Atelier statt. Auf Wunsch und bei entsprechender Ausstattung (Klavier vorhanden) kann ich den Unterricht auch sehr gerne bei Ihnen abhalten. \nDie Anfahrtspauschale für Wien und Umgebung beträgt 5€.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Bieten Sie Schnupperstunden an?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Sehr gerne biete ich eine Schnupperstunde zum kennenlernen an. Einfach nachfragen und einen Termin vereinbaren, die Schnupperstunde kostet den halben Preis.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Wie kann ich Sie erreichen?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Öffentlich mit der U4 (Unter St. Veit) und 5-minütiger Gehweg. Straßenbahnlinie 49 (Seckendorfstraße) oder 52 (Linzerstraße/Zehetnergasse)\"\n    }\n  }]\n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
@@ -2773,11 +2774,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -2788,7 +2789,7 @@
     "klavierunterricht-originals.html": {
       "settings": {
         "title": "Klavierunterricht Brigitte Swoboda | Originalbilder",
-        "order": 8,
+        "order": 9,
         "meta_descr": "Bilder meiner Website: Brigitte Swoboda, Klavierunterricht Wien in original Auflösung",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
         "header_custom": "<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>"
@@ -3627,11 +3628,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -3642,7 +3643,7 @@
     "ueber-mich.html": {
       "settings": {
         "title": "Über mich | Klavierlehrerin Brigitte Swoboda",
-        "order": 3,
+        "order": 4,
         "header_custom": "<meta name=\"keywords\" lang=\"de\" content=\"Klavierausbildung\">\n  <meta name=\"keywords\" lang=\"en-us\" content=\"piano knowledge\">\n  <meta name=\"format-detection\" content=\"telephone=yes\">\n  <meta name=\"msvalidate.01\" content=\"32733F5AA7854C184164D3BAF21EDACF\" />\n\n\n<!-- Person Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Brigitte Swoboda - Klavierlehrerin für Anfänger und Fortgeschrittene\",\n  \"url\": \"https://brigitte-swoboda.at/ueber-mich\",\n  \"image\": \"https://brigitte-swoboda.at/assets/images/brigitte-swoboda-616x821.jpg\",\n  \"sameAs\": \"https://brigitte-swoboda.at\",\n  \"jobTitle\": \"Klavierunterricht Wien\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Privat\"\n  }  \n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
         "meta_descr": "Hier erfahren Sie einige Eckpunkte meiner Ausbildung und meines  beruflichen Werdeganges als Klavierpädagogin.",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
@@ -4280,11 +4281,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -4295,7 +4296,7 @@
     "blog.html": {
       "settings": {
         "title": "Rund ums Klavierspiel | Blog",
-        "order": 9,
+        "order": 10,
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
         "header_custom": "",
         "meta_descr": "Übetechniken, effizientes Auswendiglernen, Fehler vermeiden, Spaß am Klavierspielen und vieles mehr in meinem Blog"
@@ -4921,11 +4922,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -4936,7 +4937,7 @@
     "klavierunterricht-wien-preise.html": {
       "settings": {
         "title": "Klavierunterricht | Mag. Brigitte Swoboda | Termine | Preise",
-        "order": 2,
+        "order": 3,
         "meta_descr": "Termine jederzeit vereinbar - nehmen Sie Kontakt auf! Der Preis richtet sich nach Länge der Unterrichtseinheit",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
         "header_custom": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"Product\", \n  \"name\": \"Klavierunterricht\",\n  \"image\": \"https://brigitte-swoboda.at/image-originals/brigitte-swoboda-bei-klavier.jpg\",\n  \"description\": \"Klavierunterricht ganz persönlich - Für Anfänger, Fortgeschrittene, Wiedereinsteiger. Lernen und üben an zwei Klavieren ist mein Schlüssel zum Erfolg!\",\n  \"brand\": \"Brigitte Swoboda - Klavierlehrer\",\n  \"sku\": \"068110867785\",\n  \"gtin8\": \"068110867785\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"url\": \"https://brigitte-swoboda.at/klavierunterricht-wien-preise\",\n    \"priceCurrency\": \"EUR\",\n    \"price\": \"40\",\n    \"priceValidUntil\": \"2020-03-01\",\n    \"availability\": \"https://schema.org/LimitedAvailability\",\n    \"itemCondition\": \"https://schema.org/NewCondition\"\n  },\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"5\",\n    \"bestRating\": \"5\",\n    \"worstRating\": \"4\",\n    \"ratingCount\": \"3\",\n    \"reviewCount\": \"3\"\n  },\n  \"review\": [{\n    \"@type\": \"Review\",\n    \"name\": \"Winfried Erland Ebert\",\n    \"reviewBody\": \"Wunderbare, freundliche Lehrerin für jede Altersklasse.\nHat großes Interesse daran, ihre Schüler kennenzulernen und eine persönliche Beziehung aufzubauen.\",\n    \"reviewRating\": {\n      \"@type\": \"Rating\",\n      \"ratingValue\": \"5\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"4\"\n    },\n    \"datePublished\": \"2019-08-22\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  },{\n    \"@type\": \"Review\",\n    \"name\": \"Hilde Moustafa\",\n    \"reviewBody\": \"An meinem 50. Geburtstag habe ich beschlossen, meine Klavierkenntnisse zu testen. Brigitte hat mir dabei geholfen, meine längst vergessen geglaubten Fähigkeiten aus der Kindheit wieder hervorzuholen und heute, 14 Jahre später, spiele ich wieder! Mit Rat und Tat steht sie mir auch heute noch bei.  DANKE dafür.\",\n    \"reviewRating\": {\n      \"@type\": \"Rating\",\n      \"ratingValue\": \"5\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"4\"\n    },\n    \"datePublished\": \"2019-09-02\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  },{\n    \"@type\": \"Review\",\n    \"name\": \"Mia S.\",\n    \"reviewBody\": \"Ich habe jahrelang Klavierunterricht bei Brigitte gehabt. Dabei habe ich sehr viel gelernt und viel gelacht und kann den Klavierunterricht auf jeden Fall weiterempfehlen!!!\",\n    \"reviewRating\": {\n      \"@type\": \"Rating\",\n      \"ratingValue\": \"5\",\n      \"bestRating\": \"5\",\n      \"worstRating\": \"4\"\n    },\n    \"datePublished\": \"2019-08-12\",\n    \"author\": {\"@type\": \"Person\", \"name\": \"\"}\n  }]\n}\n</script>"
@@ -5568,11 +5569,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -6311,7 +6312,7 @@
             }
           },
           "_name": "contacts3",
-          "_customHTML": "<section class=\"contacts3 map\" group=\"Contacts\" plugins=\"amp-main, amp-iframe\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Social\" name=\"showSocial\">\n        <input type=\"range\" inline title=\"Social Count\" name=\"iconsCount\" min=\"1\" max=\"9\" step=\"1\" value=\"3\" condition=\"showSocial\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"4\" step=\"0.1\" value=\"2.1\" condition=\"showIcons\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#a0a0a0\" condition=\"showIcons\">\n        <input type=\"range\" inline name=\"listItems\" title=\"List Items\" min=\"0\" max=\"8\" value=\"4\">\n        <input type=\"checkbox\" title=\"Map on Left/Right\" name=\"reverseContent\" condition=\"listItems > 0 || showSocial\" checked=\"checked\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected> \n        </fieldset>\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10638.219829943311!2d16.2869364!3d48.1959257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41574f56b97d8bc!2sBrigitte+Swoboda+-+Klavierunterricht+1140+Wien!5e0!3m2!1sde!2sat!4v1565792002575!5m2!1sde!2sat&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen></iframe>\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-section-title\" mbr-theme-style=\"display-2\">\n            So können Sie mich erreichen:<br><br></h2>\n        <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n            Find Us Or Contact Us\n        </h3>\n\n        <div class=\"mbr-row mbr-justify-content-center main-row\">\n            <div class=\"mbr-col-md-12 mbr-col-sm-12 map-content\" mbr-class=\"{'mbr-col-lg-6':listItems > 0 || showSocial,'mbr-col-lg-12':listItems == 0 &amp;&amp; !showSocial}\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n                <div class=\"map-placeholder mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                </div>\n            </div>\n            \n            \n            <div class=\"mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12 contact-content\" mbr-if=\"listItems > 0 || showSocial\">\n                <div class=\"contact-wrap\">\n                <div class=\"mbr-row\" mbr-list mbr-list-grow=\"listItems\">\n                    <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-phone fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"tel:+43 681 1086 77 85\">+43 681 1086 77 85</a></p>\n                    </div>\n                    \n                    \n                <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"mailto:brigitte-swoboda@gmx.at?subject=Anfrage%20für%20Klavierunterricht\">brigitte-swoboda@gmx.at</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-whatsapp fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://wa.me/4368110867785\" target=\"_blank\">+43 681 1086 77 85</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mbri-map-pin\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://g.page/klavierunterricht-wien?share\" target=\"_blank\">Felbigergasse 75/4</a><br><a href=\"https://g.page/klavierunterricht-wien?share\" target=\"_blank\">1140 Wien</a></p>\n                    </div></div>\n                <div class=\"icons-list social align-center\" mbr-list mbr-list-grow=\"iconsCount\" mbr-if=\"showSocial\">\n                <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                    <span class=\"iconfont-wrapper\">\n                        <span mbr-icon class=\"amp-iconfont fa-facebook-f fa\"></span>\n                    </span>\n                </a>\n            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                    <span class=\"iconfont-wrapper\">\n                        <span mbr-icon class=\"amp-iconfont fa-twitter fa\"></span>\n                    </span>\n                </a><a href=\"https://www.linkedin.com/in/mobirise\" target=\"_blank\">\n                    <span class=\"iconfont-wrapper\">\n                        <span mbr-icon class=\"amp-iconfont fa-whatsapp fa\"></span>\n                    </span>\n                </a></div>\n            </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"contacts3 map\" group=\"Contacts\" plugins=\"amp-main, amp-iframe\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Social\" name=\"showSocial\">\n        <input type=\"range\" inline title=\"Social Count\" name=\"iconsCount\" min=\"1\" max=\"9\" step=\"1\" value=\"3\" condition=\"showSocial\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"4\" step=\"0.1\" value=\"2.1\" condition=\"showIcons\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#a0a0a0\" condition=\"showIcons\">\n        <input type=\"range\" inline name=\"listItems\" title=\"List Items\" min=\"0\" max=\"8\" value=\"4\">\n        <input type=\"checkbox\" title=\"Map on Left/Right\" name=\"reverseContent\" condition=\"listItems > 0 || showSocial\" checked=\"checked\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected> \n        </fieldset>\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10638.219829943311!2d16.2869364!3d48.1959257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41574f56b97d8bc!2sBrigitte+Swoboda+-+Klavierunterricht+1140+Wien!5e0!3m2!1sde!2sat!4v1565792002575!5m2!1sde!2sat&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen></iframe>\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-section-title\" mbr-theme-style=\"display-2\">\n            So können Sie mich erreichen:<br><br></h2>\n        <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n            Find Us Or Contact Us\n        </h3>\n\n        <div class=\"mbr-row mbr-justify-content-center main-row\">\n            <div class=\"mbr-col-md-12 mbr-col-sm-12 map-content\" mbr-class=\"{'mbr-col-lg-6':listItems > 0 || showSocial,'mbr-col-lg-12':listItems == 0 &amp;&amp; !showSocial}\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n                <div class=\"map-placeholder mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                </div>\n            </div>\n            \n            \n            <div class=\"mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12 contact-content\" mbr-if=\"listItems > 0 || showSocial\">\n                <div class=\"contact-wrap\">\n                <div class=\"mbr-row\" mbr-list mbr-list-grow=\"listItems\">\n                    <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-phone fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"tel:+43 681 1086 77 85\">+43 681 1086 77 85</a></p>\n                    </div>\n                    \n                    \n                <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"mailto:brigitte-swoboda@gmx.at?subject=Anfrage%20für%20Klavierunterricht\">brigitte-swoboda@gmx.at</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-whatsapp fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://wa.me/+4368110867785\">+43 681 1086 77 85</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mbri-map-pin\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://g.page/klavierunterricht-wien?share\" target=\"_blank\">Felbigergasse 75/4</a><br><a href=\"https://g.page/klavierunterricht-wien?share\" target=\"_blank\">1140 Wien</a></p>\n                    </div></div>\n                <div class=\"icons-list social align-center\" mbr-list mbr-list-grow=\"iconsCount\" mbr-if=\"showSocial\">\n                <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                    <span class=\"iconfont-wrapper\">\n                        <span mbr-icon class=\"amp-iconfont fa-facebook-f fa\"></span>\n                    </span>\n                </a>\n            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                    <span class=\"iconfont-wrapper\">\n                        <span mbr-icon class=\"amp-iconfont fa-twitter fa\"></span>\n                    </span>\n                </a><a href=\"https://www.linkedin.com/in/mobirise\" target=\"_blank\">\n                    <span class=\"iconfont-wrapper\">\n                        <span mbr-icon class=\"amp-iconfont fa-whatsapp fa\"></span>\n                    </span>\n                </a></div>\n            </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "Kontakt",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
@@ -6382,765 +6383,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "footer",
-          "_params": {}
-        }
-      ]
-    },
-    "klavierunterricht-wien-kontakt.html": {
-      "settings": {
-        "title": "Brigitte Swoboda | Klavierunterricht Wien | Kontakt",
-        "order": 1,
-        "meta_descr": "Brigitte Swoboda, Klavierlehrer Wien, Klavierunterricht, Anfahr, Kontakt telefonisch, E-Mail, Whatsapp",
-        "header_custom": "<!-- Geschäft Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Klavierunterricht Wien - Für Anfänger und Fortgeschrittene\",\n  \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n  \"@id\": \"\",\n  \"url\": \"https://brigitte-swoboda.at\",\n  \"telephone\": \"+43 681 1086 77 85\",\n\"priceRange\": \"40€-50€\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Felbigergasse 75/4\",\n    \"addressLocality\": \"Wien\",\n    \"postalCode\": \"1140\",\n    \"addressCountry\": \"AT\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 48.1959257,\n    \"longitude\": 16.28693640000006\n  } ,\n  \"sameAs\": \"https://brigitte-swoboda.at\"\n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
-        "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
-      },
-      "components": [
-        {
-          "alias": false,
-          "_styles": {
-            "min-height": "80px",
-            ".brand-name": {
-              "color": "#15181b",
-              "margin": "0"
-            },
-            ".nav-item:focus, .nav-link:focus": {
-              "outline": "none"
-            },
-            ".navbar-nav": {
-              "list-style-type": "none",
-              "display": "flex",
-              "-webkit-flex-direction": "row",
-              "flex-direction": "row",
-              "padding-left": "0",
-              ".nav-link": {
-                "margin": ".667em 1em",
-                "font-weight": "normal"
-              }
-            },
-            "@media (min-width: 992px)": {
-              ".dropdown-menu .dropdown-toggle:after": {
-                "content": "''",
-                "border-bottom": "0.35em solid transparent",
-                "border-left": "0.35em solid",
-                "border-right": "0",
-                "border-top": "0.35em solid transparent",
-                "margin-left": "0.3rem",
-                "margin-top": "-0.3077em",
-                "position": "absolute",
-                "right": "1.1538em",
-                "top": "50%"
-              }
-            },
-            "@media (max-width: 991px)": {
-              "ul.navbar-nav": {
-                "-webkit-flex-direction": "column !important",
-                "flex-direction": "column !important",
-                "li": {
-                  "margin": "auto"
-                }
-              },
-              ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
-                "content": "''",
-                "margin-left": ".25rem",
-                "border-top": "0.35em solid",
-                "border-right": "0.35em solid transparent",
-                "border-left": "0.35em solid transparent",
-                "border-bottom": "0",
-                "top": "55%"
-              },
-              ".nav-dropdown .dropdown-menu .dropdown-item": {
-                "-webkit-justify-content": "center",
-                "justify-content": "center",
-                "display": "flex !important",
-                "-webkit-align-items": "center",
-                "align-items": "center"
-              }
-            },
-            ".nav-dropdown .dropdown-menu": {
-              "border-radius": "0",
-              "border": "0",
-              "left": "0",
-              "margin": "0",
-              "min-width": "10rem",
-              "padding-bottom": "1.25rem",
-              "padding-top": "1.25rem",
-              "position": "absolute",
-              ".dropdown-item": {
-                "font-weight": "400",
-                "line-height": "2",
-                "display": "flex",
-                "-webkit-align-items": "center",
-                "align-items": "center",
-                "width": "100%",
-                "padding": ".25rem 1.5rem",
-                "clear": "both",
-                "text-align": "inherit",
-                "white-space": "nowrap",
-                "background": "0 0",
-                "border": "0"
-              },
-              ".dropdown": {
-                "position": "relative"
-              }
-            },
-            ".nav-item.dropdown": {
-              "position": "relative",
-              ".dropdown-menu": {
-                "z-index": "-1",
-                "opacity": "0",
-                "pointer-events": "none"
-              },
-              "&:hover": {
-                "& > .dropdown-menu": {
-                  "z-index": "1",
-                  "opacity": "1",
-                  "pointer-events": "all"
-                }
-              }
-            },
-            ".dropdown-menu .dropdown:hover": {
-              "& > .dropdown-menu": {
-                "z-index": "1",
-                "opacity": "1",
-                "pointer-events": "all"
-              }
-            },
-            ".link.dropdown-toggle:after": {
-              "content": "''",
-              "margin-left": ".25rem",
-              "border-top": "0.35em solid",
-              "border-right": "0.35em solid transparent",
-              "border-left": "0.35em solid transparent",
-              "border-bottom": "0"
-            },
-            ".nav-dropdown .dropdown-submenu": {
-              "top": "0"
-            },
-            ".navbar": {
-              "z-index": "100",
-              "display": "flex",
-              "-webkit-flex-direction": "row",
-              "flex-direction": "row",
-              "width": "100%",
-              "min-height": "80px",
-              "transition": "all .3s",
-              "background": "@menuBgColor",
-              ".navbar-logo": {
-                "margin-right": ".8rem",
-                "img": {
-                  "height": "auto"
-                }
-              },
-              "&.navbar-short": {
-                "background": "@menuBgColor !important",
-                ".brand": {
-                  "padding": "0"
-                }
-              },
-              "&.opened": {
-                "transition": "all .3s",
-                "background": "@menuBgColor !important"
-              },
-              ".dropdown-item": {
-                "padding": ".25rem 1.5rem"
-              },
-              ".navbar-collapse": {
-                "display": "flex",
-                "-webkit-justify-content": "flex-end",
-                "justify-content": "flex-end",
-                "z-index": "1",
-                "-webkit-flex-basis": "100%",
-                "flex-basis": "100%",
-                "-webkit-align-items": "center",
-                "align-items": "center",
-                "& when not (@showItems)": {
-                  "display": "none !important"
-                }
-              },
-              "@media (max-width: 991px)": {
-                ".navbar-collapse": {
-                  "display": "none",
-                  "position": "absolute",
-                  "top": "0",
-                  "right": "0",
-                  "min-height": "100vh",
-                  "background": "@menuBgColor",
-                  "padding": "1rem 2rem 1rem 2rem",
-                  "& when (@sidebarSide = 'left')": {
-                    "right": "auto",
-                    "left": "0"
-                  }
-                },
-                "&.opened": {
-                  ".navbar-collapse": {
-                    "&.show, &.collapsing": {
-                      "display": "block"
-                    }
-                  },
-                  ".dropdown-menu": {
-                    "top": "0"
-                  }
-                },
-                ".dropdown-menu": {
-                  "position": "relative",
-                  "background": "transparent !important",
-                  ".dropdown-submenu": {
-                    "left": "0 !important"
-                  },
-                  ".dropdown-item:after": {
-                    "right": "auto"
-                  }
-                },
-                ".dropdown-menu .dropdown-item": {
-                  "padding": ".25rem 1.5rem",
-                  "text-align": "center",
-                  "margin": "0"
-                },
-                ".brand": {
-                  "-webkit-flex-shrink": "initial",
-                  "flex-shrink": "initial",
-                  "word-break": "break-word"
-                }
-              }
-            },
-            ".brand": {
-              "display": "flex",
-              "-webkit-flex-shrink": "0",
-              "flex-shrink": "0",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "margin-right": "0",
-              "padding": "0",
-              "transition": "all .3s",
-              "word-break": "break-word",
-              "z-index": "1",
-              ".navbar-caption": {
-                "line-height": "inherit !important",
-                "font-weight": "normal"
-              },
-              ".navbar-logo a": {
-                "outline": "none"
-              },
-              ".navbar-caption-wrap": {
-                "display": "flex"
-              }
-            },
-            ".dropdown-item.active,.dropdown-item:active": {
-              "background-color": "transparent"
-            },
-            ".navbar-expand-lg .navbar-nav .nav-link": {
-              "padding": "0"
-            },
-            ".navbar.navbar-expand-lg .dropdown": {
-              ".dropdown-menu": {
-                "background": "@menuBgColor",
-                ".dropdown-submenu": {
-                  "margin": "0",
-                  "left": "100%"
-                }
-              }
-            },
-            ".navbar .dropdown.open > .dropdown-menu": {
-              "display": "block"
-            },
-            "ul.navbar-nav": {
-              "-webkit-flex-wrap": "wrap",
-              "flex-wrap": "wrap"
-            },
-            ".navbar-buttons": {
-              "text-align": "center"
-            },
-            "button.navbar-toggler": {
-              "display": "none",
-              "outline": "none",
-              "width": "31px",
-              "height": "20px",
-              "cursor": "pointer",
-              "transition": "all .2s",
-              "position": "relative",
-              "-webkit-align-self": "center",
-              "align-self": "center",
-              ".hamburger span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all .2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all .2s"
-                }
-              }
-            },
-            "nav.opened .navbar-toggler:not(.hide) .hamburger span": {
-              "&:nth-child(1)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              },
-              "&:nth-child(2)": {
-                "-webkit-transform": "rotate(45deg)",
-                "transform": "rotate(45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(3)": {
-                "-webkit-transform": "rotate(-45deg)",
-                "transform": "rotate(-45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(4)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              }
-            },
-            ".navbar-dropdown": {
-              "padding": ".5rem 1rem",
-              "& when (@sticky)": {
-                "position": "fixed"
-              }
-            },
-            "a.nav-link": {
-              "display": "flex",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "-webkit-justify-content": "center",
-              "justify-content": "center"
-            },
-            ".nav-link,.dropdown-item": {
-              ".mbr-iconfont": {
-                "margin-right": ".2rem"
-              }
-            },
-            ".ampstart-btn": {
-              "display": "flex",
-              "@media (min-width: 992px)": {
-                "display": "none"
-              },
-              "-webkit-align-self": "center",
-              "align-self": "center",
-              "&.hamburger": {
-                "position": "relative",
-                "right": "20px",
-                "margin-left": "auto",
-                "width": "30px",
-                "height": "20px",
-                "background": "none",
-                "border": "none",
-                "cursor": "pointer",
-                "z-index": "1000",
-                "&:focus": {
-                  "outline": "none"
-                },
-                "span": {
-                  "position": "absolute",
-                  "right": "0",
-                  "width": "30px",
-                  "height": "2px",
-                  "border-right": "5px",
-                  "background-color": "@hamburgerColor",
-                  "&:nth-child(1)": {
-                    "top": "0",
-                    "transition": "all .2s"
-                  },
-                  "&:nth-child(2)": {
-                    "top": "8px",
-                    "transition": "all .15s"
-                  },
-                  "&:nth-child(3)": {
-                    "top": "8px",
-                    "transition": "all .15s"
-                  },
-                  "&:nth-child(4)": {
-                    "top": "16px",
-                    "transition": "all .2s"
-                  }
-                }
-              }
-            },
-            "amp-sidebar": {
-              "min-width": "260px!important",
-              "z-index": "1050!important",
-              "background-color": "@menuBgColor"
-            },
-            "amp-sidebar.open:after": {
-              "content": "''",
-              "position": "absolute",
-              "top": "0",
-              "left": "0",
-              "bottom": "0",
-              "right": "0",
-              "background-color": "red"
-            },
-            ".open": {
-              "transform": "translateX(0%) !important",
-              "display": "block!important",
-              "-webkit-transform": "translateX(0%) !important"
-            },
-            ".builder-sidebar": {
-              "background-color": "@menuBgColor",
-              "position": "relative",
-              "min-height": "100vh",
-              "z-index": "1030",
-              "padding": "1rem 2rem",
-              "max-width": "20rem",
-              ".dropdown": {
-                "position": "relative",
-                "&:hover": {
-                  "& > .dropdown-menu": {
-                    "position": "relative",
-                    "text-align": "center"
-                  }
-                }
-              }
-            },
-            ".sidebar": {
-              "padding": "1rem 0",
-              "margin": "0"
-            },
-            ".sidebar > li": {
-              "list-style": "none",
-              "display": "flex",
-              "-webkit-flex-direction": "column",
-              "flex-direction": "column"
-            },
-            ".sidebar a": {
-              "display": "block",
-              "text-decoration": "none",
-              "margin-bottom": "10px"
-            },
-            ".close-sidebar": {
-              "width": "30px",
-              "height": "30px",
-              "position": "relative",
-              "cursor": "pointer",
-              "background-color": "transparent",
-              "border": "none",
-              "&:focus": {
-                "outline": "2px auto @primaryColor"
-              },
-              "span": {
-                "position": "absolute",
-                "left": "0",
-                "top": "14px",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "-webkit-transform": "rotate(45deg)",
-                  "transform": "rotate(45deg)"
-                },
-                "&:nth-child(2)": {
-                  "-webkit-transform": "rotate(-45deg)",
-                  "transform": "rotate(-45deg)"
-                }
-              }
-            },
-            "amp-img": {
-              "margin-right": "1rem",
-              "display": "flex",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "height": "~\"@{logoHeight}px\"",
-              "width": "~\"@{logoWidth}px\"",
-              "@media (max-width: 767px)": {
-                "max-height": "35px",
-                "max-width": "35px"
-              }
-            }
-          },
-          "_name": "menu2",
-          "_customHTML": "<section class=\"menu horizontal-menu\" group=\"Menu\" plugins=\"DropDown, amp-main,amp-sidebar\" once=\"menu\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Logo Anzeigen\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Lögo-Höhe\" inline=\"\" name=\"logoHeight\" min=\"35\" max=\"120\" value=\"45\" step=\"1\" condition=\"showLogo\">\n        <input type=\"range\" title=\"Logo-Breite\" inline=\"\" name=\"logoWidth\" min=\"35\" max=\"120\" value=\"45\" step=\"1\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Markennamen Anzeigen\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked=\"\">\n        <input type=\"checkbox\" title=\"Button(s) Anzeigen\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar-Seite\" name=\"sidebarSide\">\n            <option value=\"left\">Links</option>\n            <option value=\"right\" selected=\"\">Rechts</option>\n        </select>\n        <input type=\"color\" title=\"Hamburger-Farbe\" name=\"hamburgerColor\" value=\"#15181b\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown navbar-expand-lg\" mbr-class=\"{'navbar-fixed-top':sticky}\">\n      <div class=\"brand\" mbr-if=\"showLogo || showBrand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/piano-icon-90x90.png\" layout=\"responsive\" width=\"45\" height=\"45\" alt=\"Klavierunterricht Wien Logo\" class=\"mobirise-loader\" title=\"Klavierunterricht Wien Logo\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/piano-icon-90x90.png\" alt=\"Klavierunterricht Wien Logo\" title=\"Klavierunterricht Wien Logo\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-7\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style mbr-bold\" data-app-selector=\".brand-name\"><span style=\"font-weight: normal;\"><a href=\"https://brigitte-swoboda.at\" class=\"text-black\">Mag. Brigitte Swoboda</a></span></p>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <button class=\"navbar-toggler mb-2\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <ul mbr-menu=\"\" class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-7\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish &amp;&amp; !showBrand &amp;&amp; !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/#Philosophie\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">\n                        Philosophie</a>\n                    \n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/atelier\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Atelier</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/fragen-zum-klavierunterricht\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Fragen</a></li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/ueber-mich\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Über mich</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/klavierunterricht-wien-preise\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Preise</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/blog\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Blog</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/klavierunterricht-wien-kontakt\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Kontakt</a></li></ul>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">\n                  Kontakte\n                </a></div>\n      </div>\n      <button class=\"navbar-toggler hide\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n          <div class=\"hamburger\">\n              <span></span>\n              <span></span>\n              <span></span>\n              <span></span>\n          </div>\n      </button>\n      <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\" mbr-if=\"showItems||showButtons\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n    </nav>\n\n  <!-- AMP plug -->\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n        </div>\n    </amp-sidebar>\n\n</section>",
-          "_anchor": "menu2-4q",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise-amp",
-          "_cid": "rEZBkd0J0R",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "menu",
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-title": {
-              "padding-bottom": "1rem"
-            },
-            ".mbr-section-btn": {
-              "padding-top": "1.5rem"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#15181b"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section content1\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons Anzeigen\" name=\"showButtons\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h1 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-title\"><span style=\"font-weight: normal;\">\n            Kontakt</span></h1>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><i>\"Alles, im Kleinen und Großen, beruht auf Weitersagen.\" -  </i>Christian Morgenstern (1871 - 1914)<br><br></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">\n            <a class=\"btn btn-primary\" href=\"https://mobirise.co\">MEHR INFO</a>\n            <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n        </div>\n    </div>\n</section>",
-          "_cid": "rABU74Zrlg",
-          "_anchor": "content1-3d",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".main-row when (@showSubtitle), (@showTitle)": {
-              "padding-top": "2rem"
-            },
-            "& when not (@listItems = 0)": {
-              "@media (min-width: 768px)": {
-                ".list-item": {
-                  "padding-bottom": "2rem",
-                  "&:last-child": {
-                    "padding-bottom": "0"
-                  },
-                  "&:nth-last-child(2) when (@listItems = 2), (@listItems = 4), (@listItems = 6), (@listItems = 8)": {
-                    "padding-bottom": "0"
-                  }
-                }
-              },
-              "@media (max-width: 767px)": {
-                ".list-item": {
-                  "padding-bottom": "1.5rem",
-                  "&:last-child": {
-                    "padding-bottom": "0"
-                  }
-                }
-              },
-              ".list-item": {
-                "display": "flex",
-                "p": {
-                  "margin": "0",
-                  "padding": "0"
-                }
-              },
-              ".list-item .iconfont-wrapper when (@showIcons)": {
-                "width": "~\"@{iconsSize}rem\"",
-                "height": "~\"@{iconsSize}rem\"",
-                "margin-right": "1rem",
-                "& when ((@iconsSize * 16) > 30)": {
-                  "@media (max-width: 767px)": {
-                    "height": "30px",
-                    "width": "30px"
-                  }
-                },
-                ".mbr-iconfont": {
-                  "font-size": "~\"@{iconsSize}rem\"",
-                  "width": "~\"@{iconsSize}rem\"",
-                  "color": "@iconsColor",
-                  "& when ((@iconsSize * 16) > 30)": {
-                    "@media (max-width: 767px)": {
-                      "font-size": "30px",
-                      "width": "30px"
-                    }
-                  }
-                }
-              }
-            },
-            "& when (@showForm)": {
-              ".form-box when not (@listItems = 0)": {
-                "padding-top": "2rem"
-              },
-              ".mbr-section-btn": {
-                "margin": "0.5rem"
-              },
-              ".mbr-section-btn > *, textarea, input": {
-                "margin": "0"
-              },
-              ".mbr-form": {
-                "margin-left": "-0.5rem",
-                "margin-right": "-0.5rem"
-              },
-              "textarea, input, .area": {
-                "width": "100%"
-              },
-              ".area, .split-row": {
-                "padding": "0.5rem"
-              },
-              ".fieldset": {
-                "@media (min-width: 768px)": {
-                  "display": "flex",
-                  "-webkit-flex-wrap": "wrap",
-                  "flex-wrap": "wrap",
-                  ".split-row": {
-                    "flex": "1 1 30%"
-                  }
-                }
-              },
-              "input, textarea, select": {
-                "color": "@labelsColor !important",
-                "border": "1px solid @borderColor",
-                "&:hover, &:focus": {
-                  "border-color": "@primaryColor"
-                },
-                "background": "@inputColor"
-              },
-              "input::-webkit-input-placeholder": {
-                "color": "fade(@labelsColor, 50%)"
-              },
-              "input::-moz-placeholder": {
-                "color": "fade(@labelsColor, 50%)"
-              },
-              "textarea::-webkit-input-placeholder": {
-                "color": "fade(@labelsColor, 50%)"
-              },
-              "textarea::-moz-placeholder": {
-                "color": "fade(@labelsColor, 50%)"
-              }
-            },
-            "& when (@listItems > 0), (@showForm)": {
-              "@media (min-width: 992px)": {
-                ".main-row when (@reverseContent)": {
-                  "flex-direction": "row-reverse",
-                  ".map-content": {
-                    "padding-left": "2rem"
-                  }
-                },
-                ".map-content when not (@reverseContent)": {
-                  "padding-right": "2rem"
-                }
-              },
-              ".form-content": {
-                "@media (max-width: 991px)": {
-                  "padding-top": "2rem"
-                }
-              }
-            },
-            ".area": {
-              "width": "100%",
-              "padding": ".5rem"
-            },
-            ".field": {
-              "display": "flex",
-              "-webkit-flex-direction": "column",
-              "flex-direction": "column",
-              "padding": ".5rem",
-              "margin": "0"
-            },
-            "textarea": {
-              "width": "100%",
-              "max-width": "100%",
-              "min-height": "200px"
-            }
-          },
-          "_name": "contacts4",
-          "_customHTML": "<section class=\"contacts4 map\" group=\"Contacts\" plugins=\"amp-main, amp-iframe,amp-form,amp-mustache\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\">\n        <input type=\"range\" inline name=\"listItems\" title=\"List Items\" min=\"0\" max=\"8\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked condition=\"listItems > 0\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"4\" step=\"0.1\" value=\"1.6\" condition=\"showIcons &amp;&amp; listItems > 0\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#4ea2e3\" condition=\"showIcons &amp;&amp; listItems > 0\">\n\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\" checked>\n        <input type=\"color\" title=\"Fields Color\" name=\"inputColor\" value=\"#ffffff\" condition=\"showForm\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#767676\" condition=\"showForm\">\n        <input type=\"color\" title=\"Form Text Color\" name=\"labelsColor\" value=\"#000000\" condition=\"showForm\">\n\n        <input type=\"checkbox\" title=\"Map on Left/Right\" name=\"reverseContent\" condition=\"listItems > 0 || showForm\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#eaeaea\" selected>\n        </fieldset>\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10638.219829943311!2d16.2869364!3d48.1959257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41574f56b97d8bc!2sBrigitte+Swoboda+-+Klavierunterricht+1140+Wien!5e0!3m2!1sde!2sat!4v1565792002575!5m2!1sde!2sat&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen></iframe>\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-section-title\" mbr-theme-style=\"display-2\">\n            Kontakte\n        </h2>\n        <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n            Find Us Or Contact Us\n        </h3>\n\n        <div class=\"mbr-row mbr-justify-content-center main-row\">\n            <div class=\"mbr-col-md-12 mbr-col-sm-12 map-content\" mbr-class=\"{'mbr-col-lg-6':listItems > 0 || showForm,'mbr-col-lg-12':listItems == 0 &amp;&amp; !showForm}\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n                <div class=\"map-placeholder mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                </div>\n            </div>\n\n\n            <div class=\"mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12 form-content\">\n                <div class=\"mbr-row list-box\" mbr-list mbr-list-grow=\"listItems\" mbr-if=\"listItems > 0\">\n                    <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-phone fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"tel:+43 681 1086 77 85\">+43 681 1086 77 85</a></p>\n                    </div>\n\n\n                <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"mailto:brigitte-swoboda@gmx.at?subject=Anfrage%20für%20Klavierunterricht\">brigitte-swoboda@gmx.at</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-whatsapp fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://wa.me/4368110867785\" target=\"_blank\">+43 681 1086 77 85</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mbrib-pin\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://www.google.com/maps/place/Brigitte+Swoboda+-+Klavierunterricht+1140+Wien/@48.1959257,16.2847477,17z/data=!3m1!4b1!4m5!3m4!1s0x476da7aff2ef2601:0x41574f56b97d8bc!8m2!3d48.1959257!4d16.2869364\" target=\"_blank\">Felbigergasse 75/4</a><br><a href=\"https://www.google.com/maps/place/Brigitte+Swoboda+-+Klavierunterricht+1140+Wien/@48.1959257,16.2847477,17z/data=!3m1!4b1!4m5!3m4!1s0x476da7aff2ef2601:0x41574f56b97d8bc!8m2!3d48.1959257!4d16.2869364\" target=\"_blank\">1140 Wien</a></p>\n                    </div></div>\n                <div mbr-form class=\"form-box\" mbr-if=\"showForm\">\n                  <form class=\"mbr-form\" action=\"brigitte-swoboda@gmx.at\" method=\"POST\" name=\"Kontaktformular Website\" target=\"_top\" novalidate>\n                      <div class=\"mbr-row\">\n                        <div submit-success class=\"mbr-col-sm-12 mbr-col-md-12\">\n                            <template type=\"amp-mustache\">Nachricht wurde versendet. Vielen Dank!</template>\n                        </div>\n                        <div submit-error class=\"mbr-col-sm-12 mbr-col-md-12\">\n                            <template type=\"amp-mustache\">Nachricht konnte nicht versendet werden. Probieren Sie es bitte noch einmal.</template>\n                        </div>\n                      </div>\n                      <div class=\"mbr-row\" data-for=\"form[data][1][1]\">\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][1][1]\">\n                              <input type=\"hidden\" name=\"form[data][1][0]\" value=\"Name\">\n                              <input class=\"field-input\" type=\"text\" name=\"form[data][1][1]\" data-form-field=\"Name\" placeholder=\"Name\" required>\n                          </div>\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][2][1]\">\n                              <input type=\"hidden\" name=\"form[data][2][0]\" value=\"Phone\">\n                              <input class=\"field-input\" type=\"tel\" name=\"form[data][2][1]\" data-form-field=\"Phone\" placeholder=\"Telefonnummer\" required>\n                          </div>\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][0][1]\">\n                              <input type=\"hidden\" name=\"form[data][0][0]\" value=\"Email\">\n                              <input class=\"field-input\" type=\"email\" name=\"form[data][0][1]\" data-form-field=\"Email\" placeholder=\"E-mail Adresse\" required>\n                          </div>\n                          <div class=\"area field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12\" data-for=\"form[data][3][1]\">\n                              <input type=\"hidden\" name=\"form[data][3][0]\" value=\"Message\">\n                              <textarea class=\"field-input\" name=\"form[data][3][1]\" rows=\"7\" data-form-field=\"Message\" placeholder=\"Nachricht\"></textarea>\n                          </div>\n                          <div mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12\"><a type=\"submit\" class=\"btn btn-primary btn-form\" data-app-placeholder=\"Type Text\">Nehmen Sie Kontakt auf</a></div>\n                      </div>\n                  </form>\n            </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rACeRdohMd",
-          "_anchor": "contacts4-46",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "h1": {
-              "margin-bottom": "20px"
-            },
-            ".wrapper": {
-              "text-align": "center"
-            },
-            ".icons-list": {
-              "a": {
-                "display": "inline-block",
-                "padding": "1rem",
-                "margin": ".5rem",
-                "background": "@iconsBg",
-                ".iconfont-wrapper": {
-                  "display": "inline-block",
-                  "width": "~\"@{iconsSize}rem\"",
-                  "height": "~\"@{iconsSize}rem\"",
-                  ".amp-iconfont": {
-                    "color": "contrast(@iconsBg, darken(@iconsBg, 50%), #ffffff, 60%)",
-                    "font-size": "~\"@{iconsSize}rem\""
-                  }
-                }
-              }
-            }
-          },
-          "_name": "social-follow",
-          "_customHTML": "<section class=\"social-follow\" group=\"Social\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"range\" inline title=\"Icons Count\" name=\"iconsCount\" min=\"1\" max=\"10\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"5\" step=\"0.1\" value=\"2\">\n        <input type=\"color\" name=\"iconsBg\" title=\"Icons Bg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div class=\"wrapper\">\n        <h3 class=\"mbr-fonts-style align-center mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\">\n            Teilen erwünscht</h3>\n        <div class=\"icons-list\" mbr-list mbr-list-grow=\"iconsCount\">\n            <a href=\"https://wa.me/?text=Klavierunterricht%20in%20Wien%20von%20Mag.%20Brigitte%20Swoboda.%20Besuchen%20Sie%20meine%20Website:%20brigitte-swoboda.at\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-whatsapp fa\"></span>\n                </span>\n            </a>\n            \n            \n            \n                \n                \n                \n                \n            <a href=\"https://www.facebook.com/sharer/sharer.php?u=brigitte-swoboda.at\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-facebook-f fa\"></span>\n                </span>\n            </a><a href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrigitte-swoboda.at%2FKlavierunterricht.html&text=Klavierunterricht%20in%20Wien%20-%20Lernen%20Sie%20ihre%20Kreativit%C3%A4t%20kennen%3A\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-twitter fa\"></span>\n                </span>\n            </a><a href=\"mailto:?subject=Empfehlung Klavierunterricht Wien&body=Persönlicher Klavierunterricht von Mag. Brigitte Swoboda. Besuchen Sie meine Website: https://brigitte-swoboda.at\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                </span>\n            </a></div>\n        </div>\n    </section>",
-          "_anchor": "social-follow-3m",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise-amp",
-          "_cid": "rABWEjXFaC",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "p": {
-              "margin": "0",
-              "color": "#ffffff"
-            },
-            ".mbr-col-sm-12, .mbr-text": {
-              "color": "#000000"
-            }
-          },
-          "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
-          "_anchor": "footer1-3g",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise-amp",
-          "_cid": "rABUYirnWZ",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -7151,7 +6398,7 @@
     "404.html": {
       "settings": {
         "title": "404 Seite",
-        "order": 11,
+        "order": 12,
         "meta_descr": "",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
         "header_custom": ""
@@ -7738,11 +6985,11 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rBErrvqZAG",
-          "_anchor": "footer1-4b",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
@@ -7753,7 +7000,7 @@
     "richtig-klavierueben.html": {
       "settings": {
         "title": "Klavierunterricht Blog  | Tipps und Anleitung zum effizienten Klavierüben",
-        "order": 10,
+        "order": 11,
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
         "header_custom": "<!-- Artikel -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://brigitte-swoboda.at\"\n  },\n  \"headline\": \"Ein kleiner Anstoß zum Klavierüben\",\n  \"description\": \"Wie man die Freude am Klavierüben steigert, was das Üben uns bringt und wie man Kinder motiviert, erkläre ich in diesem Artikel\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://brigitte-swoboda.at/image-originals/brigitte-swoboda.jpg\",\n    \"width\": 752,\n    \"height\": 1003\n  },\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Brigitte Swoboda\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Brigitte Swoboda\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://brigitte-swoboda.at/assets/images/piano-icon-90x90.png\",\n      \"width\": 60,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2019-10-16\",\n  \"dateModified\": \"2019-10-16\"\n}\n</script>",
         "meta_descr": "Wie man die Freude am Klavierüben steigert, was das Üben uns bringt und wie man Kinder motiviert, erkläre ich in diesem Artikel."
@@ -8266,11 +7513,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section content1\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons Anzeigen\" name=\"showButtons\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h1 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-title\"><span style=\"font-weight: normal;\">Ein kleiner Anstoß zum Klavierüben</span></h1>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">\n            <a class=\"btn btn-primary\" href=\"https://mobirise.co\">MEHR INFO</a>\n            <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n        </div>\n    </div>\n</section>",
           "_cid": "rEZzQcvEsa",
+          "_anchor": "content1-4h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-4h"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8288,11 +7535,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Der Kostenlose Website-Baukasten\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Schon das Wort ÜBEN ruft eine ablehnende Haltung  hervor. Das lästige Wiederholen und monotone Abspielen von Sequenzen, von immer gleichen Stellen, ist eine unbequeme Sache, der man gerne aus dem Weg geht.<br><br>Der Zwiespalt  ist  allgemein bekannt: Wir wollen etwas sehr gut können, wollen schnellen Erfolg, sind aber nicht bereit die erforderliche Zeit zu investieren.<br><br>Wir haben vergessen, dass wir unsere eigene, persönliche  Zeit haben, etwas zu erlernen. Wir selbst sind das Maß, und dementsprechend sollten wir uns  die Zeit gönnen, die wir brauchen, um neue Kenntnisse zu erlangen.<br><br>Üben, - oder wie ich es nenne, neugieriges Wiederholen, - ist ein wertvoller Schaffensprozess, der nicht nur mit dem Musikstück zu tun hat, sondern ganz wesentlich zu unserer inneren musikalischen Entwicklung führt.<br><br><br>Wie ist das nun im Alltag? <br><br>Wichtig ist, dass jeden Tag Zeit am Klavier verbracht wird. Manchmal  investiert man mehr als eine Stunde, manchmal gehen sich nur ein paar Minuten aus.<br><br>Wesentlich ist, dass es zum Tagesablauf dazu gehört. Optimal, wenn das Spielen immer zur gleichen Tageszeit  stattfinden kann und auch der Übeprozess eine  gewisse Routine bekommt. Das Zauberwort heißt Kontinuität - auch wenn gerade wenig Zeit vorhanden ist oder man lieber die Füße hochlegt und seine Lieblingsserie im Fernsehen ansieht, ein bisschen Zeit fürs Klavier sollte man sich nehmen.<br><br>Durch kontinuierliches spielen und üben verbessert man sich, vielleicht unmerklich zu Beginn, aber es wird von Tag zu Tag klarer.<br>Dies gilt in jeden Belangen des täglichen Lebens. Durch stetiges Interesse, sich zu verbessern, Problemstellungen zu analysieren, eigene Fehler zu erkennen und zu beseitigen und Freude daran zu haben, wieder ein Stück weitergekommen zu sein, bereichert das Leben ungemein und hilft uns, als Person zu wachsen.&nbsp;<br><br>Damit das Klavierüben auch effizient von der Hand geht und die Zeit optimal genutzt wird, lesen Sie nachfolgend meine bewährte Überoutine:&nbsp;<br><br>1). Fingerübung: zum Aufwärmen der Finger genügt anfangs  eine kleine Technikübung mit jeder Hand separat trainiert.<br><br>2). Das neue Musikstück mit jeder Hand allein schrittweise erarbeiten. Am besten nimmt man sich immer nur 2-3 Takte vor. Dabei zuerst die Noten genau abspielen, dann wiederholen und die Melodie nachsummen, dann nochmals spielen und  exakt zählen. Danach erst die nächsten Takte genauso erarbeiten. Hat  man so eine Zeile oder zwei geschafft, gehört alles von Anfang  LANGSAM durchgespielt.<br>Misserfolg stellt sich meist durch zu schnelles Üben ein!<br>Das Zauberwort heißt LANGSAM. Merkt man, dass eine Stelle immer schwierig ist, gehört Note für Note gespielt, Nur so hat unser Hirn die Möglichkeit, die verschiedenen Bewegungsabläufe, die auch in einer scheinbar leichten Stelle vorhanden sind, ordnungsgemäß abzuspeichern.<br><br>So geht man vor, bis das Pensum erreicht ist.<br><br>Wie macht man das bei Kindern?<br>Auch da bitte immer achten, dass jede Hand für sich und langsam  gespielt wird. Bei schnellem Üben - vielleicht aus akuter Zeitnot - kommt die Bewegung der Finger außer Kontrolle und man vergreift sich. Solche Fehler sind dann schwer wieder loszuwerden, - ein unnötiger Misserfolg! Für Sprösslinge, die nicht so gerne spielen eignet sich eine Eier- oder Sanduhr am Klavier. Wenn die ausgemachte Zeit abgelaufen ist, ist der Schaffensprozess für den Tag erledigt. Das ist für fast alle Kinder optimal, da kennen sie sich aus.<br><br>3). Zum Abschluss der Überzeit empfiehlt sich ein schon länger geübtes Musikstück durchzuspielen, das Freude macht und schon flott geht.<br>Natürlich wäre es optimal mehr davon zu spielen, weil genau diese älteren, leichteren Stücke, die Routine und Geläufigkeit steigern.<br><br>Allgemein merkt man sich: ein Musikstück lernt man nicht durch endloses Durchspielen. Es geht nur taktweise und durch Wiederholen von kleinen Abschnitten. <br>Nicht zu vergessen ist, dass Musik etwas mit Melodie zu tun hat, und dass die  Ohren wesentlich zum Übungserfolg beitragen. Die Melodie nachsingen oder summen mit und ohne Klavier erleichtert das Erlernen. Warum? Weil wir durch die Melodie schon wissen, wie es weitergeht in der Abfolge, und daher auch die Noten schneller erfassen.<br><br>In diesem Sinne - viel Erfolg!</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rEZA95LdMb",
+          "_anchor": "content2-4p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-4p"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8329,11 +7576,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
           "_cid": "rEZzQeXu9R",
+          "_anchor": "social-follow-4n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "social-follow-4n"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8355,15 +7602,782 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "rEZzQfrABP",
+          "_cid": "rRBHPNuDZ0",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-4o"
+          "_params": {}
+        }
+      ]
+    },
+    "klavierunterricht-wien-kontakt.html": {
+      "settings": {
+        "title": "Brigitte Swoboda | Klavierunterricht Wien | Kontakt",
+        "order": 1,
+        "meta_descr": "Brigitte Swoboda, Klavierlehrer Wien, Klavierunterricht, Anfahr, Kontakt telefonisch, E-Mail, Whatsapp",
+        "header_custom": "<!-- Geschäft Markup -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Klavierunterricht Wien - Für Anfänger und Fortgeschrittene\",\n  \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n  \"@id\": \"\",\n  \"url\": \"https://brigitte-swoboda.at\",\n  \"telephone\": \"+43 681 1086 77 85\",\n\"priceRange\": \"40€-50€\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Felbigergasse 75/4\",\n    \"addressLocality\": \"Wien\",\n    \"postalCode\": \"1140\",\n    \"addressCountry\": \"AT\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 48.1959257,\n    \"longitude\": 16.28693640000006\n  } ,\n  \"sameAs\": \"https://brigitte-swoboda.at\"\n}\n</script>\n\n<!-- Rezession -->\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"bestRating\": \"5\",\n    \"ratingCount\": \"12\",\n    \"ratingValue\": \"5\"\n      },\n      \"image\": \"https://brigitte-swoboda.at/image-originals/klavierunterricht-wien-zwei-konzertfluegel.jpg\",\n      \"name\": \"Klavierunterricht Brigitte Swoboda - Kontakt\"\n    }</script>",
+        "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PRR8JHP&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "min-height": "80px",
+            ".brand-name": {
+              "color": "#15181b",
+              "margin": "0"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".navbar-nav": {
+              "list-style-type": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "row",
+              "flex-direction": "row",
+              "padding-left": "0",
+              ".nav-link": {
+                "margin": ".667em 1em",
+                "font-weight": "normal"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".dropdown-menu .dropdown-toggle:after": {
+                "content": "''",
+                "border-bottom": "0.35em solid transparent",
+                "border-left": "0.35em solid",
+                "border-right": "0",
+                "border-top": "0.35em solid transparent",
+                "margin-left": "0.3rem",
+                "margin-top": "-0.3077em",
+                "position": "absolute",
+                "right": "1.1538em",
+                "top": "50%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              "ul.navbar-nav": {
+                "-webkit-flex-direction": "column !important",
+                "flex-direction": "column !important",
+                "li": {
+                  "margin": "auto"
+                }
+              },
+              ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                "content": "''",
+                "margin-left": ".25rem",
+                "border-top": "0.35em solid",
+                "border-right": "0.35em solid transparent",
+                "border-left": "0.35em solid transparent",
+                "border-bottom": "0",
+                "top": "55%"
+              },
+              ".nav-dropdown .dropdown-menu .dropdown-item": {
+                "-webkit-justify-content": "center",
+                "justify-content": "center",
+                "display": "flex !important",
+                "-webkit-align-items": "center",
+                "align-items": "center"
+              }
+            },
+            ".nav-dropdown .dropdown-menu": {
+              "border-radius": "0",
+              "border": "0",
+              "left": "0",
+              "margin": "0",
+              "min-width": "10rem",
+              "padding-bottom": "1.25rem",
+              "padding-top": "1.25rem",
+              "position": "absolute",
+              ".dropdown-item": {
+                "font-weight": "400",
+                "line-height": "2",
+                "display": "flex",
+                "-webkit-align-items": "center",
+                "align-items": "center",
+                "width": "100%",
+                "padding": ".25rem 1.5rem",
+                "clear": "both",
+                "text-align": "inherit",
+                "white-space": "nowrap",
+                "background": "0 0",
+                "border": "0"
+              },
+              ".dropdown": {
+                "position": "relative"
+              }
+            },
+            ".nav-item.dropdown": {
+              "position": "relative",
+              ".dropdown-menu": {
+                "z-index": "-1",
+                "opacity": "0",
+                "pointer-events": "none"
+              },
+              "&:hover": {
+                "& > .dropdown-menu": {
+                  "z-index": "1",
+                  "opacity": "1",
+                  "pointer-events": "all"
+                }
+              }
+            },
+            ".dropdown-menu .dropdown:hover": {
+              "& > .dropdown-menu": {
+                "z-index": "1",
+                "opacity": "1",
+                "pointer-events": "all"
+              }
+            },
+            ".link.dropdown-toggle:after": {
+              "content": "''",
+              "margin-left": ".25rem",
+              "border-top": "0.35em solid",
+              "border-right": "0.35em solid transparent",
+              "border-left": "0.35em solid transparent",
+              "border-bottom": "0"
+            },
+            ".nav-dropdown .dropdown-submenu": {
+              "top": "0"
+            },
+            ".navbar": {
+              "z-index": "100",
+              "display": "flex",
+              "-webkit-flex-direction": "row",
+              "flex-direction": "row",
+              "width": "100%",
+              "min-height": "80px",
+              "transition": "all .3s",
+              "background": "@menuBgColor",
+              ".navbar-logo": {
+                "margin-right": ".8rem",
+                "img": {
+                  "height": "auto"
+                }
+              },
+              "&.navbar-short": {
+                "background": "@menuBgColor !important",
+                ".brand": {
+                  "padding": "0"
+                }
+              },
+              "&.opened": {
+                "transition": "all .3s",
+                "background": "@menuBgColor !important"
+              },
+              ".dropdown-item": {
+                "padding": ".25rem 1.5rem"
+              },
+              ".navbar-collapse": {
+                "display": "flex",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                "z-index": "1",
+                "-webkit-flex-basis": "100%",
+                "flex-basis": "100%",
+                "-webkit-align-items": "center",
+                "align-items": "center",
+                "& when not (@showItems)": {
+                  "display": "none !important"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".navbar-collapse": {
+                  "display": "none",
+                  "position": "absolute",
+                  "top": "0",
+                  "right": "0",
+                  "min-height": "100vh",
+                  "background": "@menuBgColor",
+                  "padding": "1rem 2rem 1rem 2rem",
+                  "& when (@sidebarSide = 'left')": {
+                    "right": "auto",
+                    "left": "0"
+                  }
+                },
+                "&.opened": {
+                  ".navbar-collapse": {
+                    "&.show, &.collapsing": {
+                      "display": "block"
+                    }
+                  },
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  "position": "relative",
+                  "background": "transparent !important",
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": ".25rem 1.5rem",
+                  "text-align": "center",
+                  "margin": "0"
+                },
+                ".brand": {
+                  "-webkit-flex-shrink": "initial",
+                  "flex-shrink": "initial",
+                  "word-break": "break-word"
+                }
+              }
+            },
+            ".brand": {
+              "display": "flex",
+              "-webkit-flex-shrink": "0",
+              "flex-shrink": "0",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "0",
+              "transition": "all .3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important",
+                "font-weight": "normal"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              },
+              ".navbar-caption-wrap": {
+                "display": "flex"
+              }
+            },
+            ".dropdown-item.active,.dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center"
+            },
+            "button.navbar-toggler": {
+              "display": "none",
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "position": "relative",
+              "-webkit-align-self": "center",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .navbar-toggler:not(.hide) .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": ".5rem 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".nav-link,.dropdown-item": {
+              ".mbr-iconfont": {
+                "margin-right": ".2rem"
+              }
+            },
+            ".ampstart-btn": {
+              "display": "flex",
+              "@media (min-width: 992px)": {
+                "display": "none"
+              },
+              "-webkit-align-self": "center",
+              "align-self": "center",
+              "&.hamburger": {
+                "position": "relative",
+                "right": "20px",
+                "margin-left": "auto",
+                "width": "30px",
+                "height": "20px",
+                "background": "none",
+                "border": "none",
+                "cursor": "pointer",
+                "z-index": "1000",
+                "&:focus": {
+                  "outline": "none"
+                },
+                "span": {
+                  "position": "absolute",
+                  "right": "0",
+                  "width": "30px",
+                  "height": "2px",
+                  "border-right": "5px",
+                  "background-color": "@hamburgerColor",
+                  "&:nth-child(1)": {
+                    "top": "0",
+                    "transition": "all .2s"
+                  },
+                  "&:nth-child(2)": {
+                    "top": "8px",
+                    "transition": "all .15s"
+                  },
+                  "&:nth-child(3)": {
+                    "top": "8px",
+                    "transition": "all .15s"
+                  },
+                  "&:nth-child(4)": {
+                    "top": "16px",
+                    "transition": "all .2s"
+                  }
+                }
+              }
+            },
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "transform": "translateX(0%) !important",
+              "display": "block!important",
+              "-webkit-transform": "translateX(0%) !important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "min-height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem",
+              ".dropdown": {
+                "position": "relative",
+                "&:hover": {
+                  "& > .dropdown-menu": {
+                    "position": "relative",
+                    "text-align": "center"
+                  }
+                }
+              }
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "top": "14px",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "-webkit-transform": "rotate(45deg)",
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "-webkit-transform": "rotate(-45deg)",
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "amp-img": {
+              "margin-right": "1rem",
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "@media (max-width: 767px)": {
+                "max-height": "35px",
+                "max-width": "35px"
+              }
+            }
+          },
+          "_name": "menu2",
+          "_customHTML": "<section class=\"menu horizontal-menu\" group=\"Menu\" plugins=\"DropDown, amp-main,amp-sidebar\" once=\"menu\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Logo Anzeigen\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Lögo-Höhe\" inline=\"\" name=\"logoHeight\" min=\"35\" max=\"120\" value=\"45\" step=\"1\" condition=\"showLogo\">\n        <input type=\"range\" title=\"Logo-Breite\" inline=\"\" name=\"logoWidth\" min=\"35\" max=\"120\" value=\"45\" step=\"1\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Markennamen Anzeigen\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked=\"\">\n        <input type=\"checkbox\" title=\"Button(s) Anzeigen\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar-Seite\" name=\"sidebarSide\">\n            <option value=\"left\">Links</option>\n            <option value=\"right\" selected=\"\">Rechts</option>\n        </select>\n        <input type=\"color\" title=\"Hamburger-Farbe\" name=\"hamburgerColor\" value=\"#15181b\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown navbar-expand-lg\" mbr-class=\"{'navbar-fixed-top':sticky}\">\n      <div class=\"brand\" mbr-if=\"showLogo || showBrand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/piano-icon-90x90.png\" layout=\"responsive\" width=\"45\" height=\"45\" alt=\"Klavierunterricht Wien Logo\" class=\"mobirise-loader\" title=\"Klavierunterricht Wien Logo\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/piano-icon-90x90.png\" alt=\"Klavierunterricht Wien Logo\" title=\"Klavierunterricht Wien Logo\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-7\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style mbr-bold\" data-app-selector=\".brand-name\"><span style=\"font-weight: normal;\"><a href=\"https://brigitte-swoboda.at\" class=\"text-black\">Mag. Brigitte Swoboda</a></span></p>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <button class=\"navbar-toggler mb-2\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <ul mbr-menu=\"\" class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-7\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish &amp;&amp; !showBrand &amp;&amp; !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/#Philosophie\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">\n                        Philosophie</a>\n                    \n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/atelier\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Atelier</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/fragen-zum-klavierunterricht\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Fragen</a></li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/ueber-mich\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Über mich</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/klavierunterricht-wien-preise\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Preise</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/blog\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Blog</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://brigitte-swoboda.at/klavierunterricht-wien-kontakt\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Kontakt</a></li></ul>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">\n                  Kontakte\n                </a></div>\n      </div>\n      <button class=\"navbar-toggler hide\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n          <div class=\"hamburger\">\n              <span></span>\n              <span></span>\n              <span></span>\n              <span></span>\n          </div>\n      </button>\n      <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\" mbr-if=\"showItems||showButtons\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n    </nav>\n\n  <!-- AMP plug -->\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n        </div>\n    </amp-sidebar>\n\n</section>",
+          "_anchor": "menu2-47",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise-amp",
+          "_cid": "rRBGe5lsHA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-title": {
+              "padding-bottom": "1rem"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "1.5rem"
+            },
+            "H2": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#15181b"
+            },
+            "H1": {
+              "color": "#15181b"
+            }
+          },
+          "_name": "content18",
+          "_customHTML": "<section class=\"mbr-section content18\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons Anzeigen\" name=\"showButtons\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value>\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h1 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-1\"><span style=\"font-weight: normal;\">Kontakt</span></h1>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light  mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\"><i>\"Alles, im Kleinen und Großen, beruht auf Weitersagen.\" - Christian Morgenstern (1871 - 1914)</i></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">\n            <a class=\"btn btn-primary\" href=\"https://mobirise.co\">MEHR INFO</a>\n            <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content18-48",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise-amp",
+          "_cid": "rRBGfj7Px0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".main-row when (@showSubtitle), (@showTitle)": {
+              "padding-top": "2rem"
+            },
+            "& when not (@listItems = 0)": {
+              "@media (min-width: 768px)": {
+                ".list-item": {
+                  "padding-bottom": "2rem",
+                  "&:last-child": {
+                    "padding-bottom": "2rem"
+                  },
+                  "&:nth-last-child(2) when (@listItems = 2), (@listItems = 4), (@listItems = 6), (@listItems = 8)": {
+                    "padding-bottom": "2rem"
+                  }
+                }
+              },
+              "@media (max-width: 767px)": {
+                ".list-item": {
+                  "padding-bottom": "1.5rem",
+                  "&:last-child": {
+                    "padding-bottom": "0"
+                  }
+                }
+              },
+              ".list-item": {
+                "display": "flex",
+                "p": {
+                  "margin": "0",
+                  "padding": "0"
+                }
+              },
+              ".list-item .iconfont-wrapper when (@showIcons)": {
+                "width": "~\"@{iconsSize}rem\"",
+                "height": "~\"@{iconsSize}rem\"",
+                "margin-right": "1rem",
+                "& when ((@iconsSize * 16) > 30)": {
+                  "@media (max-width: 767px)": {
+                    "height": "30px",
+                    "width": "30px"
+                  }
+                },
+                ".mbr-iconfont": {
+                  "font-size": "~\"@{iconsSize}rem\"",
+                  "width": "~\"@{iconsSize}rem\"",
+                  "color": "@iconsColor",
+                  "& when ((@iconsSize * 16) > 30)": {
+                    "@media (max-width: 767px)": {
+                      "font-size": "30px",
+                      "width": "30px"
+                    }
+                  }
+                }
+              }
+            },
+            "& when (@showForm)": {
+              ".form-box when not (@listItems = 0)": {
+                "padding-top": "2rem"
+              },
+              ".mbr-section-btn": {
+                "margin": "0.5rem"
+              },
+              ".mbr-section-btn > *, textarea, input": {
+                "margin": "0"
+              },
+              ".mbr-form": {
+                "margin-left": "-0.5rem",
+                "margin-right": "-0.5rem"
+              },
+              "textarea, input, .area": {
+                "width": "100%"
+              },
+              ".area, .split-row": {
+                "padding": "0.5rem"
+              },
+              ".fieldset": {
+                "@media (min-width: 768px)": {
+                  "display": "flex",
+                  "-webkit-flex-wrap": "wrap",
+                  "flex-wrap": "wrap",
+                  ".split-row": {
+                    "flex": "1 1 30%"
+                  }
+                }
+              },
+              "input, textarea, select": {
+                "color": "@labelsColor !important",
+                "border": "1px solid @borderColor",
+                "&:hover, &:focus": {
+                  "border-color": "@primaryColor"
+                },
+                "background": "@inputColor"
+              },
+              "input::-webkit-input-placeholder": {
+                "color": "fade(@labelsColor, 50%)"
+              },
+              "input::-moz-placeholder": {
+                "color": "fade(@labelsColor, 50%)"
+              },
+              "textarea::-webkit-input-placeholder": {
+                "color": "fade(@labelsColor, 50%)"
+              },
+              "textarea::-moz-placeholder": {
+                "color": "fade(@labelsColor, 50%)"
+              }
+            },
+            "& when (@listItems > 0), (@showForm)": {
+              "@media (min-width: 992px)": {
+                ".main-row when (@reverseContent)": {
+                  "flex-direction": "row-reverse",
+                  ".map-content": {
+                    "padding-left": "2rem"
+                  }
+                },
+                ".map-content when not (@reverseContent)": {
+                  "padding-right": "2rem"
+                }
+              },
+              ".form-content": {
+                "@media (max-width: 991px)": {
+                  "padding-top": "2rem"
+                }
+              }
+            },
+            ".area": {
+              "width": "100%",
+              "padding": ".5rem"
+            },
+            ".field": {
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "padding": ".5rem",
+              "margin": "0"
+            },
+            "textarea": {
+              "width": "100%",
+              "max-width": "100%",
+              "min-height": "200px"
+            },
+            ".list-item-text": {
+              "color": "#4ea2e3"
+            }
+          },
+          "_name": "contacts4",
+          "_customHTML": "<section class=\"contacts4 map\" group=\"Contacts\" plugins=\"amp-main, amp-iframe,amp-form,amp-mustache\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\">\n        <input type=\"range\" inline name=\"listItems\" title=\"List Items\" min=\"0\" max=\"8\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked condition=\"listItems > 0\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"4\" step=\"0.1\" value=\"2\" condition=\"showIcons &amp;&amp; listItems > 0\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#4ea2e3\" condition=\"showIcons &amp;&amp; listItems > 0\">\n\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\">\n        <input type=\"color\" title=\"Fields Color\" name=\"inputColor\" value=\"#ffffff\" condition=\"showForm\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#767676\" condition=\"showForm\">\n        <input type=\"color\" title=\"Form Text Color\" name=\"labelsColor\" value=\"#000000\" condition=\"showForm\">\n\n        <input type=\"checkbox\" title=\"Map on Left/Right\" name=\"reverseContent\" condition=\"listItems > 0 || showForm\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#eaeaea\" selected>\n        </fieldset>\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10638.219829943311!2d16.2869364!3d48.1959257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41574f56b97d8bc!2sBrigitte+Swoboda+-+Klavierunterricht+1140+Wien!5e0!3m2!1sde!2sat!4v1565792002575!5m2!1sde!2sat&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen></iframe>\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-section-title\" mbr-theme-style=\"display-2\">\n            Kontakte\n        </h2>\n        <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n            Find Us Or Contact Us\n        </h3>\n\n        <div class=\"mbr-row mbr-justify-content-center main-row\">\n            <div class=\"mbr-col-md-12 mbr-col-sm-12 map-content\" mbr-class=\"{'mbr-col-lg-6':listItems > 0 || showForm,'mbr-col-lg-12':listItems == 0 &amp;&amp; !showForm}\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n                <div class=\"map-placeholder mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                </div>\n            </div>\n\n\n            <div class=\"mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12 form-content\">\n                <div class=\"mbr-row list-box\" mbr-list mbr-list-grow=\"listItems\" mbr-if=\"listItems > 0\">\n                    <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-phone fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"tel:+4368110867785\">+43 681 1086 77 85</a></p>\n                    </div>\n\n\n                <div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"mailto:brigitte-swoboda@gmx.at?subject=Anfrage%20für%20Klavierunterricht\">brigitte-swoboda@gmx.at</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont fa-whatsapp fa\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://wa.me/004368110867785\">+43 681 1086 77 85</a></p>\n                    </div><div class=\"list-item mbr-col-lg-6 mbr-col-md-6 mbr-col-sm-12\">\n                        <div class=\"iconfont-wrapper\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mbrib-map-pin\"></span>\n                        </div>\n                        <p class=\"mbr-fonts-style list-item-text\" mbr-theme-style=\"display-7\" data-app-selector=\".list-item-text\"><a href=\"https://g.page/klavierunterricht-wien?share\" target=\"_blank\">Felbigergasse 75/4 1140 Wien</a></p>\n                    </div></div>\n              \n              \n               \t<script async src=\"https://sdk.arengu.com/forms.js\"></script>\n\t\t\t\t<script async src=\"https://sdk.arengu.com/modal.js\"></script>\n  \n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-left\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" data-arengu-modal-form-id=\"158272251700820468\" data-app-placeholder=\"Type Text\">KONTAKTFORMULAR</a></div>\n    </div>\n\n              \n                <div mbr-form class=\"form-box\" mbr-if=\"showForm\">\n                  <form class=\"mbr-form\" action=\"brigitte-swoboda@gmx.at\" method=\"post\" name=\"Mobirise Form\" target=\"_top\" novalidate>\n                      <div class=\"mbr-row\">\n                        <div submit-success class=\"mbr-col-sm-12 mbr-col-md-12\">\n                            <template data-form-alert type=\"amp-mustache\">Subscription successful!</template>\n                        </div>\n                        <div submit-error class=\"mbr-col-sm-12 mbr-col-md-12\">\n                            <template data-form-alert type=\"amp-mustache\">Subscription successful!</template>\n                        </div>\n                      </div>\n                      <div class=\"mbr-row\" data-for=\"form[data][1][1]\">\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][1][1]\">\n                              <input type=\"hidden\" name=\"form[data][1][0]\" value=\"Name\">\n                              <input class=\"field-input\" type=\"text\" name=\"form[data][1][1]\" data-form-field=\"Name\" placeholder=\"Name\" required>\n                          </div>\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][2][1]\" hidden=\"hidden\">\n                              <input type=\"hidden\" name=\"form[data][2][0]\" value=\"Phone\">\n                              <input class=\"field-input\" type=\"phone\" name=\"form[data][2][1]\" data-form-field=\"Phone\" placeholder=\"Phone\" required hidden=\"hidden\">\n                          </div>\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][0][1]\" hidden=\"hidden\">\n                              <input type=\"hidden\" name=\"form[data][0][0]\" value=\"Email\">\n                              <input class=\"field-input\" type=\"email\" name=\"form[data][0][1]\" data-form-field=\"Email\" placeholder=\"Email\" required hidden=\"hidden\">\n                          </div>\n                          <div class=\"area field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12\" data-for=\"form[data][3][1]\" hidden=\"hidden\">\n                              <input type=\"hidden\" name=\"form[data][3][0]\" value=\"Message\">\n                              <textarea class=\"field-input\" name=\"form[data][3][1]\" rows=\"7\" data-form-field=\"Message\" placeholder=\"Message\" hidden=\"hidden\"></textarea>\n                          </div>\n                        \n                        <script async src=\"https://sdk.arengu.com/forms.js\"></script>\n<script async src=\"https://sdk.arengu.com/modal.js\"></script>\n\n                        \n                        \n                          <div mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12\">\n                              <button type=\"button\" data-arengu-modal-form-id=\"158270934316943137\">Trigger modal</button>\n                          </div>\n                      </div>\n                  </form>\n            </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "contacts4-4k",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise-amp",
+          "_cid": "rRC101BWWj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "h1": {
+              "margin-bottom": "20px"
+            },
+            ".wrapper": {
+              "text-align": "center"
+            },
+            ".icons-list": {
+              "a": {
+                "display": "inline-block",
+                "padding": "1rem",
+                "margin": ".5rem",
+                "background": "@iconsBg",
+                ".iconfont-wrapper": {
+                  "display": "inline-block",
+                  "width": "~\"@{iconsSize}rem\"",
+                  "height": "~\"@{iconsSize}rem\"",
+                  ".amp-iconfont": {
+                    "color": "contrast(@iconsBg, darken(@iconsBg, 50%), #ffffff, 60%)",
+                    "font-size": "~\"@{iconsSize}rem\""
+                  }
+                }
+              }
+            }
+          },
+          "_name": "social-follow",
+          "_customHTML": "<section class=\"social-follow\" group=\"Social\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Icons Count\" name=\"iconsCount\" min=\"1\" max=\"10\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"5\" step=\"0.1\" value=\"2\">\n        <input type=\"color\" name=\"iconsBg\" title=\"Icons Bg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div class=\"wrapper\">\n        <h3 class=\"mbr-fonts-style align-center mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\">\n            Teilen erwünscht</h3>\n        <div class=\"icons-list\" mbr-list=\"\" mbr-list-grow=\"iconsCount\">\n            <a href=\"https://wa.me/?text=Klavierunterricht%20in%20Wien%20von%20Mag.%20Brigitte%20Swoboda.%20Besuchen%20Sie%20meine%20Website:%20brigitte-swoboda.at\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon=\"\" class=\"amp-iconfont fa-whatsapp fa\"></span>\n                </span>\n            </a>\n            \n            \n            \n                \n                \n                \n                \n            <a href=\"https://www.facebook.com/sharer/sharer.php?u=brigitte-swoboda.at\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon=\"\" class=\"amp-iconfont fa-facebook-f fa\"></span>\n                </span>\n            </a><a href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrigitte-swoboda.at%2FKlavierunterricht.html&amp;text=Klavierunterricht%20in%20Wien%20-%20Lernen%20Sie%20ihre%20Kreativit%C3%A4t%20kennen%3A\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon=\"\" class=\"amp-iconfont fa-twitter fa\"></span>\n                </span>\n            </a><a href=\"mailto:?subject=Empfehlung Klavierunterricht Wien&amp;body=Persönlicher Klavierunterricht von Mag. Brigitte Swoboda. Besuchen Sie meine Website: https://brigitte-swoboda.at\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                </span>\n            </a></div>\n        </div>\n    </section>",
+          "_anchor": "social-follow-4c",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise-amp",
+          "_cid": "rRBGNd1ZKP",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "p": {
+              "margin": "0",
+              "color": "#ffffff"
+            },
+            ".mbr-col-sm-12, .mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Hintergrundbild\" value=\"\">\n            <input type=\"color\" title=\"Hintergrundfarbe\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-8\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://brigitte-swoboda.at/impressum\">Impressum</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz\">Datenschutz</a> &nbsp; <a href=\"https://brigitte-swoboda.at/datenschutz#Urheberrecht\" class=\"text-black\">©Brigitte Swoboda</a></p>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-4f",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise-amp",
+          "_cid": "rRBHPNuDZ0",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footer",
+          "_params": {}
         }
       ]
     }
