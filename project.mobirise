@@ -50,27 +50,26 @@
     "сanonical-url": "http://brigitte-swoboda.at",
     "google-analytics": "\r\n",
     "cleanCSS": false,
-    "gdpr": {
-      "colorText": "#15181b",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "Ich akzeptiere die  <a href='https://brigitte-swoboda.at/datenschutz'>Datenschutz-Bestimmungen</a>."
-    },
     "robotsText": "User-Agent: * \nAllow: / \n\n\n\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://brigitte-swoboda.at",
-    "sitemapSwitcherAuto": "",
+    "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "cookiesAlert": {
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "99",
-      "text": "Diese Website benutzt Cookies zur optimalen Darstellung. Mehr dazu im <a href='https://brigitte-swoboda.at/datenschutz'>Datenschutz</a>."
+      "opacity": "45",
+      "text": "Diese Website benutzt Cookies zur optimalen Darstellung. Mehr dazu im <a href='https://brigitte-swoboda.at/datenschutz'>Datenschutz</a>.",
+      "customDialogSelector": true,
+      "textButton": "Ich stimme zu",
+      "colorButton": "#bbbbbb",
+      "opacityOverlay": "80"
     },
     "canonical-url": "http://brigitte-swoboda.at",
-    "imageResize": true
+    "imageResize": true,
+    "gdpr": false
   },
   "pages": {
     "atelier.html": {

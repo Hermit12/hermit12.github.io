@@ -1,37 +1,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://brigitte-swoboda.at/index</loc>
+		<loc>https://brigitte-swoboda.at/atelier.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/atelier</loc>
+		<loc>https://brigitte-swoboda.at/impressum.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/impressum</loc>
+		<loc>https://brigitte-swoboda.at/datenschutz.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/datenschutz</loc>
+		<loc>https://brigitte-swoboda.at/fragen-zum-klavierunterricht.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/fragen-zum-klavierunterricht</loc>
+		<loc>https://brigitte-swoboda.at/klavierunterricht-originals.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/klavierunterricht-originals</loc>
+		<loc>https://brigitte-swoboda.at/ueber-mich.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/ueber-mich</loc>
+		<loc>https://brigitte-swoboda.at/blog.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/klavierunterricht-wien-preise</loc>
+		<loc>https://brigitte-swoboda.at/klavierunterricht-wien-preise.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/klavierunterricht-wien-kontakt</loc>
+		<loc>https://brigitte-swoboda.at/index.html</loc>
 	</url>
 	<url>
-		<loc>https://brigitte-swoboda.at/blog</loc>
+		<loc>https://brigitte-swoboda.at/404.html</loc>
 	</url>
-        <url>
-		<loc>https://brigitte-swoboda.at/blog/sitemap.xml</loc>
+	<url>
+		<loc>https://brigitte-swoboda.at/richtig-klavierueben.html</loc>
+	</url>
+	<url>
+		<loc>https://brigitte-swoboda.at/klavierunterricht-wien-kontakt.html</loc>
 	</url>
 </urlset>
-
-
