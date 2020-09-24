@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klavierunterricht AMP",
-    "currentPage": "fragen-zum-klavierunterricht.html",
+    "currentPage": "ueber-mich.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -40,7 +40,7 @@
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 167,
+    "uniqCompNum": 169,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "witsec-white-label": false,
@@ -4388,9 +4388,53 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Text Anzeigen\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle1\" checked=\"\">\n        <input type=\"checkbox\" title=\"Text Anzeigen\" name=\"showText1\" checked=\"\">\n        <input type=\"checkbox\" title=\"Button(s) Anzeigen\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media Links/Rechts\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/brigitte-swoboda-616x821.jpg\" layout=\"responsive\" width=\"523.7125456760049\" height=\"698\" alt=\"Brigitte Swoboda Klavierunterricht Wien\" class=\"mobirise-loader\" title=\"Brigitte Swoboda Klavierunterricht Wien\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/brigitte-swoboda-616x821.jpg\" alt=\"Brigitte Swoboda Klavierunterricht Wien\" title=\"Brigitte Swoboda Klavierunterricht Wien\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Einige Eckpunkte meines beruflichen Werdeganges:</h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Klavierunterricht seit meinem 4. Lebensjahr<br><br>Konzertfachausbildung im Wiener Privatkonservatorium Mühlgasse bei Prof. Leichtfried und Prof. Hendrich<br><br>Diplomierte Musikpädagogin des Wiener Musik-Collegiums<br><br>Internationale Konzerttätigkeit<br><br>Klavierlehrerin seit über 35 Jahren<br><br>Eröffnung eines privaten Klavierateliers<br><br></p>\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle1\" data-app-selector=\".mbr-section-title\">Was mich auszeichnet:</h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-4\" mbr-if=\"showText1\" data-app-selector=\".mbr-text, .mbr-section-btn\">Jungen Menschen die Freude am Klavierspielen näher zu bringen ist mir ein großes Anliegen<br><br>Gemeinsame Erarbeitung des Musikstückes, daheim muss nur noch wiederholt werden<br><br>Umfassende Erfahrung im Elementarunterricht und Konzertfach<br><br>Erfolgreiche Vorbereitung von Studenten zur Aufnahme im Klavierfach an Konservatorium und Universität<br><br>Kompetenz und Hintergrundwissen im Musiktheoretischen Bereich<br><br>Ensemblespiel mit Streichern, Erfahrung als Korrepetitionistin<br><br>Eine Menge Geduld und Verständnis</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">MEHR LESEN</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text Anzeigen\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle1\" checked>\n        <input type=\"checkbox\" title=\"Text Anzeigen\" name=\"showText1\" checked>\n        <input type=\"checkbox\" title=\"Button(s) Anzeigen\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media Links/Rechts\" name=\"flexDirection\" checked>\n\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/brigitte-swoboda-616x821.jpg\" layout=\"responsive\" width=\"521.9890962241169\" height=\"695.703\" alt=\"Brigitte Swoboda Klavierunterricht Wien\" class=\"mobirise-loader\" title=\"Brigitte Swoboda Klavierunterricht Wien\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/brigitte-swoboda-616x821.jpg\" alt=\"Brigitte Swoboda Klavierunterricht Wien\" title=\"Brigitte Swoboda Klavierunterricht Wien\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Einige Eckpunkte meines beruflichen Werdeganges:<br><br></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Klavierunterricht seit meinem 4. Lebensjahr<br><br>Konzertfachausbildung im Wiener Privatkonservatorium Mühlgasse bei Prof. Leichtfried und Prof. Hendrich<br><br>Diplomierte Musikpädagogin des Wiener Musik-Collegiums<br><br>Internationale Konzerttätigkeit<br><br>Klavierlehrerin seit über 35 Jahren<br><br>Eröffnung eines privaten Klavierateliers<br><br></p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">MEHR LESEN</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rzfauSyHTB",
           "_anchor": "features10-1r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\">\n                    Was mich auszeichnet</h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sbxNRWZwQl",
+          "_anchor": "content2-4o",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "blockquote": {
+              "border-color": "@lineColor"
+            }
+          },
+          "_name": "content10",
+          "_customHTML": "<section class=\"content10 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Strichfarbe\" name=\"lineColor\" value=\"#767676\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-text mbr-fonts-style mbr-col-sm-12 mbr-col-md-8\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote><p>Jungen Menschen die Freude am Klavierspielen näher zu bringen ist mir ein großes Anliegen<br></p><p>Gemeinsame Erarbeitung des Musikstückes, daheim muss nur noch wiederholt werden<br></p><p>Umfassende Erfahrung im Elementarunterricht und Konzertfach</p><p>Erfolgreiche Vorbereitung von Studenten zur Aufnahme im Klavierfach an Konservatorium und Universität</p><p>Kompetenz und Hintergrundwissen im Musiktheoretischen Bereich</p><p>Ensemblespiel mit Streichern, Erfahrung als Korrepetitionistin</p><p>Eine Menge Geduld und Verständnis</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sbxM377iLJ",
+          "_anchor": "content10-4n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
